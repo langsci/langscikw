@@ -1,0 +1,9969 @@
+*ABA
++Pol
+/QEQ
+0-state-Inhalt
+1-state-Inhalt
+17100
+2-state-Inhalt
+2PCl
+\%Pol
+\=Osaka
+\ace
+\agree
+\atoi\ (iota)
+\delphin\ Consortium
+\delphin\ MRS Dependencies (DM)
+\elid\ de définition (d'une fonction)
+\elid\ de dénotation
+\elid\ de sélection
+\elid\ généralisé
+\elid\ référentiel
+\elid\ référentielle
+\Ftrad
+\impl
+\itsdb
+\linimp
+\lkb
+\logon
+\LOz
+\Modele
+\pet
+\slasch
+\Tps
+\Types
+\Unv A
+\Unv R
+\Unv W
+``biological reality''
+``cafeteria principle''
+``Flintstones approach''
+``order of acquisition''
+``primitive languages''
+a (preposition)
+a (proper article)
+a"=structure
+A-accent
+A-bar movement
+A-morphous Morphology
+A-movement
+A-not-A question
+A-over-A principle
+A-Teilbaum
+Abdal
+abduction
+abgeleiteter Baum
+abilitative
+abilitive mood
+Abkopplungseffekt
+ablative
+ablative case
+ablatives
+Ablaut
+Ableitungsbaum
+Aboriginal Australia
+aboutness
+aboutness topic
+Aboutness-Topik
+Abroad
+absolute degree
+absolute duration
+absolute neutralization
+absolute rating (of acceptability), versus relative ranking
+absolute readings of superlatives
+absolute state
+absolute universals
+absolutive
+absolutive alignment
+absolutive case
+abstract gesture
+abstract nouns
+abstractionism
+abstrakt-situativ
+Abstraktum
+abtrennbarer Verbzusatz
+abusive
+ABVD database
+academic experience
+academic language
+ACATBA
+accent
+accent classification
+accent distribution
+accent perception
+accent performance
+accent transcription
+accentedness
+accents
+accentual
+accentual phrase
+accentual s-system
+accentual-phrase boundary
+accentuation
+accentuation pattern
+accept
+ACCEPT
+acceptability
+Acceptability Judgement Test
+acceptance
+Accessibility
+accessibility
+accessibility hierarchy
+Accessibility Hierarchy
+Accessibility Theory
+accidens
+accidentia
+accommodation
+accommodation, principle of
+accompaniment
+accomplishment
+accord
+acculturate
+acculturation
+accuracy
+accusative
+Accusative
+accusative alignment
+accusative case
+accusative marker
+accusative noun phrase
+accusative OCV
+accusative predicate
+accusative temporal adverbials
+accusative time measure phrase
+accusativity
+acento
+acesso pleno
+AcI-Verb
+acknowledgment
+Acoustic analysis
+acoustic analysis
+acoustic feedback
+acoustic realization
+acoustics
+ACQUILEX
+acquisition
+acquisition strategies
+acrolect
+Across the Board Extraction
+Across-The-Board (ATB) Movement
+across-the-board extraction
+across-the-board movement
+actant
+acte de langage
+acte illocutoire
+action
+action noun
+actionality
+activation
+activation cost
+activation status
+active
+active voice
+activity
+activity component
+actor
+actor argument
+actor focus
+actor voice
+Actor-emphatic construction
+actualization
+actuated
+actuation
+adaptation
+adaptor gesture
+addition
+additional evidence
+additional language
+additive
+Additive Borrowing
+Additive Borrowings
+additive enclitic
+additive numeral
+additive plural interpretation
+address
+addressee
+Addressee
+Adhortativ
+adjacency
+adjacency pair
+Adjazenz
+adjectif
+adjectif relationnel
+adjectifs
+adjectival
+adjectival attribution
+adjectival compound
+adjectival expression
+adjectivaliser
+Adjective
+adjective
+adjective derivation
+adjectives
+adjectivizer
+Adjektiv
+Adjektive
+Adjektiven
+Adjektivs
+adjetivo
+adjonction
+adjunct
+adjunct condition
+adjunct island
+adjunction
+adjuncts
+Adjunkt
+Adjunktion
+Adjunktionsbeschränkung
+adjunto
+administration aids
+admixture
+adnominal modifier
+adnominal possession
+adnominal possessive construction
+adnominal pronoun construction
+adnominal superlatives
+adoption
+adoptive
+adposition
+Adpositionals
+adstrate
+adult language
+adult speech
+advanced learner
+Adverb
+adverb
+adverbe associatif
+Adverbial
+adverbial
+adverbial clause
+adverbial constituent
+adverbial function
+adverbial particle
+adverbial phrase
+adverbial phrases
+adverbial superlatives
+Adverbiale
+adverbializer
+adverbs
+adverbs as complements
+adversativas
+adversative
+advérbio
+Adäquatheit
+Aeolism
+Aeolodorism
+aesthetic
+aesthetic experience
+aesthetics
+afasia
+affectedness
+affectedness scale
+affective meanings
+affective verb
+Affigierung
+affiliate
+affinal kin
+affirmation
+affirmative
+affirmative sentence
+affix
+Affix
+affix combinations
+affix competition
+affix doubling
+affix hopping
+affix order
+affix-based analogy
+affixation
+Affixe
+affixe/clitique adverbial
+affixe/clitique pronominal
+Affixen
+Affixes
+affordances
+affords
+affricate
+affrication
+Africa
+African English
+African languages
+afterthought
+age cohorts
+age differences
+age, effect on grammaticality judgments
+agency
+agent
+Agent
+agent-like argument
+agente
+agentive
+agentive participation
+agentivity
+Agentivity
+Agentivität
+agglutination
+agglutinative morphology
+aggregated Levenshtein distance
+agramatismo
+agree
+Agree
+agreeing
+agreeing complementizer
+agreement
+agreement controller
+Agreement Hierarchy
+agreement marker
+agreement marking
+Agreement Marking Principle (AMP)
+agreement prefix
+agreement slot
+agreement target
+agreement weakening
+agriculture
+AgrSP
+ai (deictic)
+ai (postverbal)
+aimlessness
+airstream mechanism
+ajout incident
+Akkommodation
+Akkusativ
+Akkusativobjekt
+aktionsart
+aktionsarten
+Aktivierungsintervall
+Aktivierungsintervalle
+Akzentsilbe
+Akzentzusammenstoß
+Alaska
+alethic modality
+algorithmic problems
+alienability
+alienabilization
+alienable
+Alienation
+Alignierung
+alignment
+alignment constraint
+alignment system
+alignment tool
+Alignment Unit
+allative
+alleged simultaneity
+allocation
+allomorph
+allomorphic
+allomorphy
+allophone
+allophonic
+allophonic realization
+allophony
+alloseme
+allosemy
+almost directed cycle
+alongamento
+ALPAC report
+Alpino
+Alpino Treebank
+Altai
+Altaic
+Altaicization
+AltaVista
+alternation
+alternation of the thematic vowel
+alternations
+alternative concessive conditional
+alternative question
+alternative questions
+alternative set
+alternatives
+altura
+alveolar
+alveolar stop
+alveopalatal affricate
+Alyawarre
+Amazonia
+ambiguity
+Ambiguität
+ambiguous sentence
+ambiguous with respect to grammatical aspect
+ambiguous word, and context effects
+ambiguïté
+Amdo
+Amdo Sprachbund
+American English
+American Sign Language
+American structuralism
+American Structuralists
+AMI Meeting Corpus
+amount dimension
+amount scale
+amplitude increase
+Amur
+analepse (forward ellipsis)
+analisi linguistica
+analogical
+analogical designation
+Analogical Modelling
+Analogie
+analogy
+analysis
+analytic indeterminacy
+analytic linker construction
+analytic verb form
+analytical construction
+analytique
+analyzability
+analyzed knowledge, as component of language skill
+anamnestisch
+Anapher
+anaphor
+anaphora
+Anaphora
+anaphora resolution
+anaphore
+anaphore d'instance
+anaphore de surface
+anaphore descriptive
+anaphore profonde
+anaphoric
+anaphoric binding
+anaphoric control
+anaphoric definites
+anaphoric dependency
+anaphoric distance
+anaphoric element
+anaphoric predicate
+anaphoric reference
+anaphoric verb
+anaphoricity
+anaphorisch
+anaphorisches Pronomen
+anastrophe
+Anatolia
+anatomically modern humans
+ancestor (in graph)
+ancestral graph
+Ancient North Eurasians
+andative
+Andes
+anew
+Anfangsrandgesetz
+Anfangsstellung
+Angabe
+Anhebung
+animacidade
+animacy
+Animacy
+animacy hierarchy
+animacy scale
+animate
+animation
+anime
+annexation
+annotated corpora
+annotation
+Annotation
+annotation of sentence information structure
+annotations
+Annotationsrichtlinien
+annotator
+anomaly
+ANOVA
+answer
+answers
+antecedent
+antecedent agreement
+Antecedent Contained Ellipsis
+anterior
+anterior tense
+anteriority
+Anteriority
+Antezedens
+anthology search
+Anthropocene
+anthropology
+Anti-Locality
+anti-passive
+anti-topic
+anticausative
+anticipation
+anticipation rule
+antipassive
+antithesis
+antitype (CFA)
+antonymy
+antropologia
+Antworterwartung
+antécédent
+Anvil
+anáfora
+análise contrastiva
+análise de narrativas
+análise do discurso espontâneo
+AOIs
+Aorist
+aorist
+aperiodische Energie
+apes
+aphasia
+apocopated form
+apocope
+apostrophe
+apparent multiple fronting
+apparent time
+apparent-time changes
+append
+Appl
+application fonctionnelle
+applicative
+applicative extension
+applied linguistics
+Apposition
+apposition
+appositive clause
+appositiver Relativsatz
+Apprehensive
+apprehensive
+approach to quality
+approche constructionnelle
+approche non structurale
+approche structurale
+appropriateness
+approximant
+aprendibilidade e aquisição da linguagem
+aquisição da linguagem
+aquisição fonológica
+Arabic
+Arabization
+Araxes-Iran Linguistic Area
+arbitrarietà
+arbitrariness
+arbiträr
+arbre
+Arc Pair Grammar
+Archaismen
+Archaismus
+archeology
+archiphoneme
+architecture
+archival database
+archive
+Arctic Ocean
+areal linguistics
+areal relations
+areal typology
+ARG-ST
+Argument
+argument
+argument attraction
+Argument Cluster Coordination
+Argument Cluster Coordination (ACC)
+argument composition
+Argument Contained Ellipsis
+argument focus
+argument indexing
+argument label
+Argument Linking
+argument optionality
+Argument Realization Principle
+argument structure
+argument-focus structure
+Argumentationsebene
+Argumentbaum
+arguments
+Argumentstruktur
+arithmetic
+arité
+arrow F-score
+arrow precision
+arrow recall
+art (software)
+art rhétorique
+Artefacts
+article
+article systems
+article-less languages
+articles
+articulator
+articulatory
+articulatory phonetics
+articulograph
+artificial dataset
+artificial intelligence
+artificial language
+artificial language learning
+Artikel
+Artikulation
+Artikulationsrate
+Artikulator
+artikulatorische Markierung
+Artikulatorische Phonologie
+Artikulographie
+Asia
+Asianism
+ASJP database
+ASJP encoding
+Aspect
+aspect
+aspect change
+Aspect marker
+aspect marking function
+aspect opposition
+aspect system
+aspectless verbal
+aspectual
+aspectual character
+aspectual meaning
+aspectual pair
+aspectual pairs
+aspectual restriction
+aspectual system
+aspectual variation
+aspectual verbs
+aspectualiser
+aspectually paired verbs
+Aspekt
+aspiration
+Aspiration
+ASPM
+AspP
+Assert
+assertion
+Assertion
+assertive
+assertive Kraft
+assertive phrase
+assertive Stärke
+Assertivität
+ASSI
+Assimilation
+assimilation
+assimilation effect
+assimilation of segments
+associated motion
+associated referent
+association
+association measure
+associative
+associative anaphora
+associative constructions
+associative objects
+associative plural
+associative preposition
+assoziativ-anaphorisch
+asterisk
+asymétrie syntaxique
+Asyndese
+asyndetic conjunction
+asyndetic relative clauses
+at-issue meaning
+atelic
+atemporal
+atemporality
+ativa
+Atlas of North American English
+atrasos na linguagem
+atrophied
+attention
+attention distribution
+attention-getting gesture
+attentionally
+attenuation
+Attenuative
+attenuative
+Attic drama
+Atticism
+attitude
+attitude propositionnelle
+attitude reports
+attitude towards MT
+attitudinal mood
+Attractor
+attractor
+Attraktor
+attribute
+attribute"=value matrix (AVM)
+attribute"=value structure
+attribute-value description
+attribute-value matrix (AVM)
+attribute-value structure
+Attribution
+attributive
+attributive adjective
+attributive article
+Attributive Comparative Deletion
+attributive construction
+attributive function
+attributive metacognition
+attributive modification
+attributive nominalization
+attributive position
+attributive relation
+attributive relationship
+attributive suffix
+attributive use
+atélique
+audio information
+audio-visual information
+audio-visual integration
+audiovisual speech
+audiovisual stimuli
+auditory channel
+auf\-zähl\-end-reihender V1-De\-kla\-ra\-tiv\-satz
+Aufforderung
+Aufforderungsmodus
+augmentative
+augmented excitation
+Augmented FCI (AFCI) algorithm
+Augmented Transition Network (ATN)
+augmented/adaptive communication
+auktorialer Erzähler
+Ausdrucksstärke
+Ausführungsgeschwindigkeit
+Auslenkung
+Aussagemodus
+Austin's ladder
+Australasians
+Australian Sign Language
+Australiasia
+Austrian Sign Language
+Austroasiatic language family
+Austronesian language family
+authenticity
+Autism Spectrum Disorder
+autive
+auto-evaluative
+autobenefactive
+automacity
+Automated readability index
+automatic alignment
+automatic segmentation
+automatic transcription
+automatization
+automaton
+autonomous science
+autonomous syntax
+autonomy
+autosegmental-metrical intonation
+AUTOTYP
+Aux-Hopping
+auxiliaire
+auxiliaries
+auxiliary
+auxiliary %inversion
+auxiliary construction
+auxiliary function
+auxiliary inversion
+auxiliary position
+auxiliary tree
+auxiliary verb
+auxiliary verbs
+avaliação de imagem
+avaliação fonológica
+avaliação fonética
+average reading speed
+Avestan
+avoid pronoun principle
+awareness
+B-accent
+B-Cubed measures
+Babel
+Babel, Tower of
+Babel, tower of
+baby talk register
+back diphthong
+back formation
+back-formation
+backformation
+Background
+background
+background condition
+background gesture
+backgrounded
+backgrounded information
+backness
+backshifting
+backtracking
+backward application
+backward control
+backwards coreference
+Bahama
+Baikal
+Balanced internal and external support
+Bambassi
+Bangui
+Bantu language family
+Banū Hilāl
+Banū Sulaym
+Barbados
+barbarism
+Bare Argument Ellipsis
+Bare Argument Ellipsis (BAE)
+bare nominal
+bare nominals
+bare noun
+bare noun phrases
+bare nouns
+bare phrase structure
+bare plurals
+bare singulars
+barter
+base
+base form
+base generation
+base labels
+base pitch
+base position
+Basel
+basic integration scheme
+basic question words
+basic semantic categories
+basic type
+basic vocabulary
+basic word order
+basilect
+basilectalization
+Basisposition
+baton
+Battle of the Sexes
+Baumunifikation
+Bayes factor
+Bayesian methods
+Bayesian network
+BCCD algorithm
+beat gesture
+Bedeutungsminimalismus/-maximalismus
+Bedingungs-Folge-Gefüge
+Bedingungs-Folge-Relation
+Befehl
+Begriff
+behavioral ecology
+behavioral properties
+behaviorism
+behavioural
+Belebtheit
+Belebtheitshierarchie
+belief objects
+Belize
+Belizean
+benefaction
+benefactive
+Benefactive preposition
+beneficiary
+beneficiary SVC
+Benennung
+Beni Amer
+Bering Strait
+Beringia
+Beschleunigungsphase
+bestimmte Artikel
+bestimmten Artikel
+bestimmten Artikels
+bestimmter Artikel
+Betontheit
+Betonung
+Betonungsmuster
+Bevölkerungsgröße
+Bewegung
+Bewegungsaufgabe
+Bewegungsauslenkung
+Bewegungseinheit
+Bewegungsinsel
+Bewegungsmuster
+Bewegungstrajektorie
+Bewertung
+Bezugsnomen
+bi-directionality
+biabsolutive construction
+bias
+BiasC
+biases
+biaspectual affixed verbs
+biaspectual nature
+biaspectual verbs
+Bible, the
+biblical dialectology
+biblical genealogy
+biclausal focus
+Big Mess Construction
+bigram
+Bigramm
+bildhafte Ikonizität
+bilingual
+bilingual lexicon
+bilingual revision
+bilingual setting
+bilingual suppletion
+bilingualism
+bilinguals
+bilinguismo
+biliterate speakers
+bimodal bilingual education
+bimodal integration
+binary
+Binary Branching Hypothesis
+binary relation
+binary-branching
+binding
+Binding Domains Principle
+binding exemption
+Binding Inheritance Principle
+binding local domain
+binding principles
+Binding Theory
+binding theory
+Bindung
+binomial (coordinated nouns)
+binomial probability
+binomial test
+BIO encoding
+Biolinguistics
+biological adaptation
+biological inheritance
+biology
+biomechanical modelling
+biomedical NLP
+BioNLP 2009 Shared Task
+bipartite spectral graph partitioning
+bit vector
+Bitte
+bivalent
+bivalent verbs
+bivariate analysis
+black box
+Blacks
+Blatt
+bleaching
+Blemmye
+blending
+Block
+Blockindex
+blocking
+blocking effect
+Blocking Principle
+Blocks
+Blöcke
+Blöcken
+BNC Baby
+bodily-mapping hypothesis
+body part
+body states
+BOLD method
+Bonferroni correction
+boolean algebra
+bootstrap clustering
+Borer--Chomsky conjecture
+borrowed biaspectual verbs
+Borrowing
+borrowing
+Botswana
+bottom-up model
+bottom-up process
+bound anaphora
+bound morpheme
+bound state
+bound variable
+bound word
+boundary
+boundary class
+boundary strength
+boundary tone
+bounded events
+bounded reading events
+bounded-event
+bounding node
+bracket erasure
+braille
+brain
+brain size
+brain, as source of grammaticality data
+branch extraction
+branching
+branching node
+branching process
+Brazil
+Brazilian Sign Language
+bridging
+bridging anaphora
+British English
+British lexicology
+British National Corpus (BNC)
+British Sign Language
+broad focus
+broad-coverage grammar
+broadcasting media
+broadness
+Broca's area
+broken plural
+brow
+BROWN
+Brückenkonstruktion
+Brückenkontext
+bucolic poetry
+buffer
+Bukhty
+Bulenga
+bundle of isoglosses
+BURGER
+Burundi
+Burzio's Generalization
+Burzio's generalization
+butter type words
+by-phrase
+c"=command
+c"=structure
+C-Center Effekt
+c-command
+c-Kommando
+c-structure
+caesura
+calcul des prédicats
+California vowel shift
+call systems
+calling sound
+calque
+calquing
+Cameroon
+Canadian
+canonical form
+canonical interpretation
+canonical reorganization
+canonical sign
+canonicity
+capacidade inata
+capacity
+capacity allocation
+capitalization
+capitalization, effect on grammaticality judgments
+caption
+cardinal
+cardinal data
+cardinal number
+cardinal numeral(s)
+cardinal numerals
+cardinality constructor
+cardinality scale
+cardinals
+careful speech
+Caribbean
+CARIN model
+Carthaginians
+cartography
+Cartography
+Case
+case
+case absorber
+case assignment
+case feature
+Case Filter
+case frame
+case hierarchy
+case law
+case marker
+case marking
+Case marking
+case particle
+case position
+Case Theory
+case-marking
+caseterminology
+CASMACAT
+CAT tools
+Catalan Sign Language
+catalepse (backward ellipsis)
+Cataphora
+categoria funcional
+categorial distinctness
+categorial distortion
+Categorial Grammar
+Categorial Grammar (CG)
+categorical perception
+categorical perception paradigm
+categorical statement
+categorisation
+categorisation game
+categorization
+category
+catena
+catégorie mixte
+Caucasus
+causais
+causal
+causal chain
+causal clause
+causal DAG
+Causal Faithfulness Condition
+causal frames
+causal graph
+Causal Markov Condition
+causal skeleton
+causal strength
+causal sufficiency
+causality
+causative
+Causative
+causative alternation
+causative construction
+causative constructions
+causative, double
+causative, lexical
+causative-noncausative distinction (CNCD)
+causatives
+cause
+Cause
+CAUSE
+cause clauses
+causee
+Causer
+causer
+causual chains
+cave-bear
+cc-s differentiation
+CEG corpus
+celerative aspect I
+celerative aspect II
+CELEX
+Celex
+cell mate
+CELR
+census
+census data
+Center for Research and Innovation in Translation and Translation Technology
+center-embedding, multiple
+centering
+Centering Theory
+Central African Republic
+Central-Eastern Polynesian
+centralization
+centripetal forces on items
+certainty
+chain
+chaining paragraph
+Challenge controversy
+chance
+change
+change in judgments over time
+change of state
+change-of-state verbs
+changement climatique
+changes in progress
+character viewpoint
+characteristic
+characteristic accent feature
+Charter of Fundamental Rights
+Chasia
+chasing sound
+cheek expansion
+Cheshire
+Chi-Square Test
+chi-square test
+Chi-Square-Test
+chi-squared
+chiastic structure
+child language
+child language acquisition
+child language disorders
+CHILDES
+children
+children's speech
+children, eliciting judgments from
+chimpanzee
+China
+Chinese
+choice function
+choice rule
+Chomsky hierarchy
+Christians
+chronemics
+Chukotka
+chunk-and-pass processing
+chunking
+cinematic composition
+circularity
+Circum-Baltic area
+circumfix
+circumfixation
+circumfixion
+circumstantial clauses
+circumstantial features
+citation form
+CJEU
+CKY algorithm
+clan
+CLAN
+clarification potential
+clarification potentional
+clarification request
+clarity
+class distance
+classe aberta
+classe de comparaison
+classe fechada
+classes de palavras
+classification
+classifications
+classificatory aspect
+classificatory aspect system
+classifier
+classifier phrase
+classifier phrases
+classifiers
+classroom instruction
+clausal
+clausal argument
+clausal complement
+clausal determiner
+clausal idioms
+Clause
+CLAUSE
+clause
+clause alignment
+clause chain
+clause chaining
+clause linkage
+clause repetition
+clause structure
+clause structures
+clause type
+clause types (Labov \& Waletzky)
+clause union
+clause-chaining
+clause-final
+clause-initial
+clause-initial position
+CLAUSE-KEY
+clause-type
+clear cases
+Cleft
+cleft
+cleft construction
+cleft constructions
+clefting
+clefts
+click
+click loss
+clicks
+CLIL
+climactic portion
+climate
+CLIMB
+clipping
+Clitic
+clitic
+clitic climbing
+clitic cluster
+clitic clusters
+clitic doubling
+clitic left dislocation
+Clitic Left Dislocation
+clitic placement
+clitic pronoun
+clitic right dislocation
+cliticisation
+cliticization
+Clitics
+clitics
+clivadas
+clivée
+CLLD
+CLMET
+close-copy stylization
+Closed questions
+closed-scale
+closest conjunct agreement
+closure duration
+cloze test
+clusivity
+cluster
+cluster analysis
+cluster label
+cluster model
+cluster simplification
+clustering
+co-activation
+co-evolution
+co-occurrence metric
+Co-occurrence patterns
+co-participation
+co-verbal gesture
+coalescence
+coda
+codas
+Code switching
+code-switching
+codemixing
+coding
+coding asymmetry
+coding properties
+coerced into
+coercion
+CoGETI
+cognacy class
+cognate
+cognate object
+cognate objects
+cognate translation
+cognates
+cognition
+cognition predicates
+cognitive
+cognitive biases
+cognitive competition
+cognitive control, as component of language skill
+cognitive ecology
+cognitive economy
+cognitive effort
+Cognitive Grammar
+cognitive grammar
+cognitive linguistics
+Cognitive Linguistics
+cognitive load
+cognitive mapping
+cognitive mechanism
+cognitive operation
+Cognitive Science
+cognitive staging area
+cognitive typology
+cognição e linguagem
+COHA
+Cohen's kappa
+coherence
+coherence criterion
+coherence process
+coherence-process signal
+coherent interpretation
+cohesion
+Cohesion
+cohesive
+cohesive density
+cohortatives
+cohérence discursive
+coindexation
+cola
+Coleman-Liau index
+collative
+collective
+collective numerals
+collectivity
+collexeme
+collexemes
+collider
+collinearity
+Collocation
+collocation
+collocation detection
+collocation extraction
+collocation identification
+collocational framework
+collocations
+collostructional analysis
+collostructions
+Colocant
+colonial
+Colonial
+colonial expansion
+colonial koinè
+colonial period
+colonialism
+color discrimination
+color terms
+colour
+colour concept
+colour terminology
+colour terms
+colour-based speaker identification
+combination
+Combinatorial Categorial Grammar (CCG)
+combinatorics
+Combinatory Categorial Grammar (CCG)
+combined average attention
+combined information content
+Comitative
+comitative
+comitative adverb
+comitative SVC
+comma intonation
+command
+comment
+commentaire
+commitment-stores
+common argument
+common cause principle
+Common Ground
+common ground
+common knowledge
+common language
+common noun
+common nouns
+common placement
+common sailor
+communicate
+Communicate
+communication
+communication aids
+communication design
+communicative event
+communicative interactions
+communicative motives
+communicative status
+community membership
+community of practice
+Comp-trace effect
+comparative
+Comparative
+comparative clause
+comparative complement
+comparative construction
+comparative constructions
+comparative correlative
+Comparative Correlative Construction
+comparative degree
+Comparative Deletion
+comparative method
+comparative morpheme
+comparative operator
+Comparative Subdeletion
+comparative SVC
+comparative turn
+comparative typology
+comparative variationist linguistics
+comparatives
+comparee
+comparison
+comparison class
+comparison classes
+compartmentalisation
+compelxity
+compensation
+compensatory lengthening
+comperative correlative
+competence
+competence (grammatical)
+competence hypothesis
+competence management
+competence orientation
+competence/performance distinction
+competency differences
+competing motivations
+competition (in parallel processing)
+Complement
+complement
+complement clause
+complement clauses
+Complement Extraction Lexical Rule
+complement-taking predicate
+complementador
+complementary distribution
+complementation
+complementation strategy
+complementiser
+complementisers
+complementizer
+complementizer  doubling
+complementizer agreement
+Complementizer doubling
+complementizer doubling
+complementizer system
+complementizer tripling
+complementizer-doubling
+complementizers
+complements
+completamento de frases
+completed changes
+completed partially directed acyclic graph (CPDAG)
+completeness
+completion
+completivas finitas
+completivas infinitivas
+completive
+completive aspect
+completive aspect I
+completive aspect II
+completive focus
+completive relation
+completive status
+complex
+complex adaptive system
+complex antecedent
+complex determiners
+complex head
+complex NP constraint
+Complex NP Constraint
+complex predicate
+complex problem solving
+complex problems
+complex stem noun
+complex type
+complex verbs
+complexe verbal
+complexidade sintática
+complexification
+complexity
+complexity class
+complexity level
+complexity levels
+complexity of the problem
+compliance tests
+complément
+component of meaning
+comportamento adquirido
+comportamento verbal
+composition
+composition fonctionnellle
+compositional
+compositional semantic
+compositional semantics
+compositionality
+compositionally
+compositionnalité
+Compound
+compound
+Compound Inflection Criterion
+compound nominal
+compound nominals
+compound noun
+compound nouns
+compound predicate hypothesis
+compound splitter
+compound triplets
+compound verb
+compound vs. phrase debate
+compound word
+Compound-Predicate Hypothesis
+compounding
+compounds
+compreensão
+comprehensibility
+comprehensible design concept
+comprehension
+compression
+computational complexity
+computational level
+computational linguistics
+computational tractability
+computer models
+computer science
+computer-assisted language instruction
+concatenation
+concatenative morphology
+concaténation
+concept
+concept of integrative motivation
+concept system
+concept type
+concept types
+concept-lexicalization pair
+conception
+concepts
+conceptual literacy
+conceptual metaphor
+conceptual orality
+conceptual space
+conceptual structure
+conceptual vector meaning
+conceptualization
+conceptualization strategy
+concession
+concessivas
+concessive
+concessive clause
+concessive clauses
+concord
+concordance
+concordance négative
+concordância
+concreteness
+concurrent systems
+condicionais
+condicionamento operante
+condition
+conditional
+conditional clause
+conditional clauses
+conditional construction
+conditional independence
+conditional interpretation
+conditional mutual information
+conditional random fields
+conditionals
+conditions de vérité
+conduit metaphor
+conectionism
+conectores
+confidence of subjects in their judgments
+configural frequency analysis
+configurationality
+confirmation
+confounder
+confusion matrix
+Congo
+conhecimento
+conjoint
+conjoint incident
+conjugation
+conjugation class
+conjugational split
+conjunct
+conjunct constraint
+conjunction
+Conjunction
+conjunction phrase
+Conjunction Reduction
+conjunctive
+conjuntivo
+connecteur
+connectionist
+connective
+connective formation
+connotation
+conscious problem solving activity
+conscious reasoning
+consciência
+consecutive
+Conservative PC algorithm
+conservativity
+consistency
+consistency (between and within subjects)
+consistency checking
+consonant
+consonant center
+consonant cluster
+Consonant cluster
+consonant clusters
+consonant gradation
+Consonant inventory
+consonant inventory
+consonant mutation
+consonant onset
+consonant sequence
+consonant substitution
+consonant system
+consonants
+constante
+constituant majeur
+constituency
+constituency parsing
+constituent
+constituent boundary
+constituent combining
+Constituent order
+constituent order
+Constituent Order Principle
+constituent ordering
+constituent priming
+constituent structure
+constituintes interrogativos
+constituintes relativos
+constraint
+Constraint Language for Lambda"=Structures (CLLS)
+Constraint Language for Lambda-Structures (CLLS)
+constraint relaxation
+constraint violations
+constraint"=based grammar
+constraint-based grammar
+constraints
+constraints-based
+construal
+construct case
+construct state
+construct-i-con
+constructicon
+construction
+construction grammar
+Construction Grammar
+Construction Grammar (CxG)
+construction inaccusative
+Construction Morphology
+construction schema
+constructional
+constructional diffusion
+constructional format
+conséquence logique
+contact
+contact flow network
+contact language
+Contact Lexical Flow Inference (CLFI)
+contact-induced grammaticalization
+container schema
+containment
+containment blend
+contamination
+content
+content learning
+content organization
+content question
+content questions
+Content-Cell
+content-frame fit
+Content-Paradigm
+contenu
+contenu parenthétique
+context
+context dependence
+context dependent
+context effects
+context mismatch
+context research
+context sensitivity
+context vector
+context"=free grammar
+context"=sensitive grammar
+context-driven
+context-free backbone
+context-free grammar
+context-free grammar (CFG)
+context-sensitive grammar
+contexte
+contextual anchors
+contextual boundness
+contextualization
+contextually provided
+contiguity constraints
+Contiguity, temporal
+contingency table
+contingent gesture
+continuation
+continuative
+continuative aspect
+continuative aspect I
+continuative aspect II
+continuative intonation
+continuative marker
+continuing topic
+continuity principle
+continuity, paradox of
+continuum
+contorno melódico
+contraband
+contracting verb
+contraction
+contraction property
+Contrainte sur les Structures Coordonnées
+contraintes d'îles
+contraintes de localité
+contraintes de parallélisme
+contrast
+contrast effect
+contrast effects
+contrast maintenance
+contrast position
+contrast sets
+contraste sémantique
+contrastive
+contrastive click
+contrastive focus
+contrastive interpretation
+contrastive topic
+contrastiveness
+control
+control predicate
+Control Theory
+controlled argument
+controlled languages
+controller
+controlo
+convention
+conventional formal instruction
+conventional interpretations
+conventionality
+conventionalization
+converb
+converb, general
+converb, imperfective
+converb, neutral
+converb, specialized
+convergence
+convergent evidence
+conversation
+conversation analysis
+conversational analysis
+conversational background
+conversational speech
+conversion
+conversion approach
+convoy
+Cooccurrence restrictions
+Cooper storage
+cooperativeness
+coor\-di\-na\-tion
+coordinand
+coordinate constructions
+coordinate structure
+coordinate structure constraint
+Coordinate Structure Constraint
+coordinated
+coordinating relation
+Coordination
+coordination
+coordination de termes dissemblables
+coordination omnisyndétique (ou corrélative)
+coordinative conjunction
+coordinative reorganization
+coordinator
+coplexity
+copula
+copula clause
+copula verb
+copular
+copular construction
+copulas
+copulative case
+copule
+copy
+copy deletion
+Copy Principle
+copy theory of movement
+Copy Theory of Movement
+Copy-and-Merge
+Core
+core
+core grammar
+core linguistic
+core participant
+core participants
+core vocabulary
+core-periphery distinction
+coreference
+coreference arrow
+coreference relation
+coreferential analysis
+coreferential chain
+CoreGram
+coronal place
+corpora
+corporate design
+corpus
+corpus annotation
+corpus data
+corpus design
+corpus linguistics
+Corpus of Contemporary American English (COCA)
+Corpus Pattern Analysis
+corpus search
+corpus size
+corpus study
+Corr(espondence function)
+correctability of ungrammatical sentence
+correction test
+correlation
+correlative addition
+correspondence analysis
+correspondence sets
+corrigendum
+corroboration
+corruption
+coréférence
+cost-effectiveness
+cosupposition
+cotemporality
+count noun
+count nouns
+countability
+countable
+countable roots
+counted noun
+counter-expectation interpretation
+counterexample
+Counterexpectation
+counterfactual
+counterfactual complementiser
+counterfactuals
+Counties
+coupling
+coupling force
+court clerk
+court testimony
+cousin
+covaluation
+coverage
+coverb
+covert movement
+covert operator
+CPE users
+cranberry morpheme
+cranberry word
+crastinal
+creativity, effect on grammaticality judgments
+credence scale
+Creole
+creole
+creole formation
+creole formation period
+creole genesis
+creole genesis theory
+creoles
+Creoles
+crew
+Criterial Freezing
+criterial freezing
+Criterial freezing
+criterial positions
+criterion versus evidence (for grammaticality)
+CRITT
+CRITT TPR database
+CRITT TPR-DB
+CRITT-TPR database
+CRITT~TPR database
+Croatian Sign Language
+cross-categorical suffix
+Cross-height harmony systems
+cross-index
+cross-language divergence
+cross-linguistic
+cross-linguistic comparison
+cross-linguistic parallelism
+cross-linguistic variation
+cross-method\-ology validation
+cross-modal association
+cross-over points
+cross-serial dependencies
+cross-temporal identity
+crossing line
+crosslinguistic variation
+crossover interpretation
+cryptanalysis
+cue validity
+cultural adaptation
+cultural anthropology
+cultural evolution
+cultural heritage
+cultural totalities
+cultural values
+culture
+culture shock
+culture-specific element
+culturomics
+cumulative
+Cumulative Pattern
+Curaçao
+curiosity
+current sentence
+current token
+curryfication
+curve index
+cycle
+cyclic feature structure
+Cyclic Over-ride
+Czech
+código elaborado
+código restrito
+D"=structure
+D-genericity
+d-separation
+D-structure
+D-Tree Grammar (DTG)
+Darfur
+Darwin
+Darwinian theory
+Darwinism
+dass-Exklamativsatz
+dass-VL-Exklamativsatz
+data collection
+data disagreements
+data elicitation
+data storage
+data transcription
+data triangulation
+data-display network
+database query
+datif
+Dativ
+dative
+dative agent
+dative alternation
+dative argument
+dative case
+dative object
+dative OCV
+dative predicate
+dative preposition
+Dativobjekt
+de la Tourette's syndrome
+de-andative future
+de-dialectization
+de-standardization
+de-venitive future
+Deaf
+deaf
+deaf audience
+deaf education
+deafisible modus ponens
+deafness
+decision making
+decision making problems
+decision making process
+decision making processes
+declarative
+Declarative
+declarative clause
+declarative intonation
+declarative sentence
+declination
+decolonisation
+decomposability
+decomposability measure
+decomposed route
+decomposition property
+decreolization
+deduction
+deep processing
+Deep Structure
+default
+default agreement
+default mapping
+default place
+default topic
+defeasible rule
+defective
+defective goal
+defectiveness
+deferred ostension
+deferred reference
+Definitartikel
+definite
+definite article
+definite articles
+Definite Clause Grammar (DCG)
+definite descriptions
+definite determiner
+definite determiners
+definite generics
+definite kinds
+definite nominals
+definite noun phrases
+Definite Null Instantiation
+definite past
+definite reduplication
+definite suffix
+Definiteness
+definiteness
+definiteness hierarchy
+definiteness marking
+definiteness scale
+definiteness spreading
+definites
+Definitheit
+Definitheitskontext
+Definition
+degemination
+DegP
+degrammaticalization
+degree
+degree achievement
+degree achievements
+degree adverb
+degree argument
+degree element
+degree expression
+degree head
+degree inversion
+degree marker
+degree modification
+degree modifier
+degree morpheme
+degree of gemination
+degree of the property
+degree phrases
+degree words
+degree-marking
+degrees
+degrees on a scale
+deictic
+Deictic centre
+deictic function
+deictic gestures
+deictic iota
+deictic particle
+Deictic particle
+deictic stem
+deictic word
+deideophonic derivation
+deiktisch-anaphorische Gruppe
+Deixis
+deixis
+Deklarativsatz
+Deklination
+delabialization
+Delaunay triangulation
+deletion
+deletion of base tone
+deletion of segments
+deletion test
+deletion under identity
+delimitative
+delivery gesture
+DELPH-IN
+demand characteristics (of experiments)
+demographic information
+demography
+demonstration act
+Demonstrativartikel
+Demonstrative
+demonstrative
+demonstrative pronoun
+demonstrative verb
+demonstratives
+Demonstrativpronomen
+Demonstrativpronomens
+Demonstrativum
+demonstratum
+demotisation
+denasalization
+dendrogram
+Denisovans
+denominal
+denominal derivation
+denominal verbs
+density
+dental fricative
+deontic
+deontic modal
+deontic modality
+Deontic mode
+deontic reading
+deontisch-illokutionärer Kausalsatz
+DepC
+DepCS
+dependencies in systems
+dependency
+Dependency Categorial Grammar
+Dependency Grammar
+dependency graph
+Dependency Minimal Recursion Semantics (DMRS)
+dependency parsing
+Dependency Unification Grammar (DUG)
+dependent case
+dependent clause
+dependent marking
+dependent object pronoun
+dependent pronoun
+dependent status
+dependent type
+dependent-marking
+Dependenz
+Dependenzfeld
+Dependenzgrammatik
+Dependenzgraph
+dependências a longa distância
+depiction
+depictive predicate
+deponence
+Deponens
+deponent
+deponent verbs
+Deponentia
+deponents
+depressor consonant
+deputative
+derivation
+derivation tree
+derivational
+derivational affixes
+derivational base
+derivational chain
+derivational chains
+derivational graph
+derivational morphology
+derivational pattern
+Derivational processes
+derivational semantics
+derivational suffix
+derivational suffixes
+Derivational Theory of Complexity
+Derivational Theory of Complexity (DTC)
+derivationelle Mächtigkeit
+derivative morpheme
+derived
+derived alleles
+derived tree
+derived word
+derogatory
+descendant (in graph)
+description
+description (vs. object)
+descriptive adequacy
+descriptive equivalent
+desemanticization
+desenvolvimento atípico
+desiderative
+desiderative OCV
+Desiderative OCV
+design concept
+design pattern
+design problems
+destandardisation
+destructive c-dif\-fer\-en\-ti\-a\-tion
+desubstantival
+detached topic
+detail perception
+detection
+determinacy
+determinante
+determinate verb
+determinate verbs
+determinative
+determine the aspect
+determined reference
+determiner
+determiner phrases
+determiner spreading
+determiners
+Determinierer
+Determiniererschema
+development of speech act
+deviant agreement
+devoiced
+devoicing
+Devoicing
+diachronic
+diachronic change
+diachronic corpus
+diachronic development
+diachronic frame
+Diachronie
+diachrony
+diadococinésia oral
+diaglossia
+diagnosis-solution problems
+diagrammatische ikonische Motivation
+diagrammatische Ikonizität
+dialect
+dialect area
+dialect awareness
+dialect border
+dialect chain
+dialect classification
+dialect clustering
+dialect contact
+dialect continuum
+dialect diffusion
+dialect divergence
+dialect extinction
+dialect formation
+dialect geography
+dialect geography approach
+dialect levelling
+dialect loss
+dialect mixture
+dialect perception
+dialect radiation theory
+dialect situation
+dialect syntax
+dialect variation
+dialectal
+dialectal border
+dialectal diversification
+dialectal etyma
+dialectal input
+dialectal origin
+dialectes
+dialectology
+dialectometry
+dialects
+Dialects
+dialects (idiolects)
+Dialektgruppe
+Dialektgruppen
+dialog history
+Dialog-cg
+dialogical array
+dialogue
+dialogue agent
+Dialogue Game Board
+dialogue gameboard parameters
+dialogue progress
+diaspora
+diatheses
+diathesis
+diathesis alternation
+DICS-Prinzip
+dictionaries
+dictionary
+dictionary lookup baseline
+dictionary of paraphrases
+dictionary-makers
+dictionnaire
+dictionnaries
+different noun
+differential argument marking
+Differential Object Marking
+differential object marking
+differential subject marking
+Differenzbeleg
+difficulty extracting information
+diffusion
+diffusion route
+diffusionism
+différence ensembliste
+digamma
+diglossia
+dilemmas
+dimension constructors
+diminuitive
+diminutive
+diphthong
+Diphthong
+diphthong use
+diphthongization
+diphthongs
+dipositioneller Kausalsatz
+direcionalidade
+direct object
+direct object position
+direct reference
+direct speech
+direct transfer
+direct-inverse
+directed acyclic graph
+directed cycle
+directed path (in graph)
+direction
+Directional
+directional
+directionality
+directionals
+Directionals
+directive
+directive speech
+directives
+Directorate-General for Translation
+Direktiv
+Dirichlet process
+dis-
+disambiguation
+disassociation
+discontinuous auxiliary
+discontinuous constituency
+discontinuous constituent
+discontinuous reciprocal
+discontinuous time
+discourse
+discourse analysis
+discourse coherence
+discourse completion task
+discourse level
+discourse linking (D-linking)
+discourse marker
+discourse participants
+discourse particle
+discourse prominence
+discourse relation
+discourse relations
+Discourse Representation Theory
+discourse representation theory
+discourse salience
+discourse status
+discourse structure
+discourse topic
+discrete infinity
+discriminant
+discriminating path
+discrimination score
+discriminação fonética
+discursive particle
+discurso espontâneo
+disfluencies
+disfluency
+disjoint
+disjoint analysis
+disjoint union
+disjonction
+disjunction
+disjunctive
+Diskontinuität
+Diskursbekenntnis
+Diskursbekenntnismenge
+Diskursbekenntnissystem
+diskursdeiktisch
+Diskursmarker
+Diskursrelation
+diskursstrukturelle Ikonizität
+Diskurstopik
+dislocation
+Dislocation
+dispersal
+Displacement
+dispositional nature of acceptability
+dissimilation
+dissmilation
+distal
+distal form
+distance
+distance function
+distance matrix
+Distanzstellung
+distinctions
+distinctive features
+distinctiveness
+distinctness
+distributed action
+distributed exponence
+Distributed Morphology
+distributed property
+distribution
+distribution of consonants
+distributional
+distributional hypothesis
+distributional semantics
+distributional similarity
+Distributive
+distributive
+distributive adjectival
+distributive numerals
+disyllabic
+ditongo
+ditransitive
+ditransitive constructions
+ditransitive verb
+ditransitives
+ditransitivity
+divergence
+diversity
+diversity linguistics
+docility
+docility principle
+doctor-patient interaction
+documentary linguistics
+documentation
+Dolgopolsky encoding
+Dolmetschen
+domain
+domain coverage
+domain objects
+domain order
+domain restriction
+domain vocabulary
+domain-general
+domain-specific
+domain-specific characteristics
+domain-specific corpus
+domaine
+dominance
+dominant
+dominant language
+Dominanzlink
+donkey anaphora
+donor language
+Dorism
+dorsal place
+double annexation
+double annexation construction
+double articulation
+double genitive marking
+double marking
+double object
+double object construction
+double-object
+double-object construction
+double-object constructions
+doublet
+doublets
+doubling
+doubling construction
+downdate
+Downdating
+downdating
+downdrift
+downstep
+downstepping
+DP hypothesis
+DP/NP Approach
+drafting
+drafting phase
+Drake
+dream
+dreams
+drift
+drift graph
+dual
+Dual
+dual nominals
+dual point
+dual-level affix
+dual-route models
+dualism
+duality of patterning
+dubbing
+dubbing country
+Dubitative
+Ducie
+DUEL Corpus
+dummy auxiliary
+dummy noun
+dummy nouns
+dummy pronoun
+dummy subject
+Dummy-Elementarbaum
+duration
+duration modifiers
+durational variability
+durative
+durative aspect
+duração
+Dutch
+Dutch versus Flemish
+dynamic logic
+dynamic phenomena
+dynamic semantics
+dynamicity
+dynamische Bedeutungstheorie
+dynamisches System
+dynamism
+Dysarthrie
+débito verbal
+défini
+déictique
+délatinisation
+dénotation
+dépendance à distance
+désaccentuation
+désignation
+déterminant
+déterminant \elid
+e (agent marker)
+e (imperfective)
+e (numeral particle)
+e (type)
+e ko (negator)
+e-commerce customer email response
+E-Frage
+e-GIVENness
+E-Interrogativsatz
+E-language
+e-type anaphora
+E/A-Klassifikation
+ease of articulation
+easily cancelled
+East Asia
+Eastern Polynesian
+echo interpretation
+echo question
+echo questions
+echolalia
+ecolinguistics
+ecological commitment
+Ecological Psychology
+ecological theory of questions
+ecological typology
+ecology
+economy
+Economy Principle
+economy principle
+edge
+edge tone
+edit distance
+editing
+education level
+Education Program for Gifted Youth
+education, effect on language skills
+educational level differences
+effacement
+effect size
+effected objects
+effective time
+effects, conversational rule
+effets de connectivité
+efficiency
+ego permeability
+egophoric
+Egophoric Present
+egophoricity
+egressive
+egressive aspect
+Egypt
+Eigenfrequenz
+Eigenname
+Eigenschaften-Set-Index
+eighteenth century
+eingebettet
+Einladung
+Eins-Zu-Eins-Beziehung
+Einstellung
+Einstellungsmodus
+Eintragsstruktur
+Einzelsprache
+Eipo
+ejective
+ELAN
+elative
+elbow detection
+electronic aids
+elegiac poets
+element constraint
+elemental inequalities
+Elementarbaum
+Elementary Dependency Structures (EDS)
+elementary predication
+elementary tree
+elemento funcional
+elevation
+elevação
+elicitation
+elicitação
+elipse do VP
+Elision
+elision
+Ellipse
+ellipse
+ellipse nominale
+ellipse post-auxiliaire
+ellipse post-modale
+ellipsis
+ellipsis domain
+ellipsis feature
+ellipsis site
+elliptical clause
+Eloquent Software
+elsewhere condition
+Elsewhere Principle
+embedded clause
+embedded event
+embedded question marker
+embedding
+embedding depth
+emblem
+emblematic gesture
+Embodied Construction Grammar
+embodied simulation
+Embodiment
+emendation
+emergence
+emerging languages
+emic
+emotion
+emotional involvement
+emotions
+emotiv-faktives Prädikat
+emotive
+emotive genitive
+emphasis
+emphatic
+emphatic consonant
+emphatic consonants
+emphatic focus
+emphatic intonation
+emphatic particles
+emphatic pronoun
+emphatic pronouns
+emphatic state
+emphatic stress
+emphatic subject
+emphatisch
+emphatische Aussage
+Emphatische Aussage
+emphatischer V1-Deklarativsatz
+emploi exophorique
+empty category principle
+Empty Category Principle
+empty element
+empty head
+empty link
+empty nucleus
+empty operator
+empty position
+empty prefix
+empty prefixes
+Empty Structures Hypothesis (ESH)
+empty vertex
+en bloc insertion
+ena (medial distance)
+enchronic
+enchronic frame
+enchrony
+enclitic
+encliticization
+enclitics
+enclitoids
+encoding
+endangered
+endangered language
+endangerment
+endlicher Automat
+endocentric
+endocentricity
+endoclitics
+endogamy
+endonormative approach
+Endopathic
+Endrandgesetz
+Endstellung
+England
+English
+English Resource Grammar (ERG)
+English teacher
+English Web Treebank
+enjoyment
+Enju
+Enkodierung
+Enlightenment
+enregisterment
+ensemble d'alternatives
+entailment
+entailments
+Entankerung
+entertainment value
+entity
+entity grid
+entity transition
+entité plurielle
+entrenched situated conceptualization
+entrenchment
+Entrenchment
+entropy
+Entschiedenheit
+enumeration
+enumerative
+environment
+envorganism
+Epenthesis
+epenthesis
+epenthetic
+epenthetic vowel
+epenthetic vowels
+epidemiology
+epigenetic
+epigraphy
+epist
+Epist
+epistemic
+epistemic modality
+epistemic stance
+epistemische Modalisierung
+epistemischer Kausalsatz
+epistemisches Adverb
+epistemisches Modalverb
+epistemology
+epoch coherence
+EPP feature
+epsilon
+epsilon production
+epêntese vocálica
+equality
+equality context
+equality modulo quantifiers
+equality reading
+Equative
+equative
+equative clauses
+equative constructions
+equative copula
+equative degree
+equative predication
+Equi-Complexity-Hypothese
+Equi-NP deletion
+equilibrium
+equivalent monitoring
+equivalent retrieval
+era (distal)
+Erfüllensbedingungen
+ergative
+ergative alignment
+ergative case
+ergative languages
+ergativity
+Ergativity
+Ergänzung
+Eritrea
+Erlebte Rede
+Ermahnung
+erosion
+erotetischer Illokutionstyp
+ERPs (Event-Related Potentials)
+error
+error analysis
+error categories
+Ersatzinfinitiv
+Erwartungspräsupposition
+erweiterte Lokalitätsdomäne
+erweiterte Projektion
+es-Korrelat
+escalas normativas
+escape hatch
+escrita
+esoteric code
+essential time
+essentialism
+Essex
+essive
+estimulabilidade
+Estonian
+estratégia de reconstrução
+estratégia de seleção
+estudos correlacionais
+estudos empíricos
+estudos epidemiológicos
+estudos experimentais
+estudos naturalistas
+estudos translinguísticos
+etcetera
+Ethiopia
+ethnic orientation
+ethnicity
+ethnographies
+etic
+etiology
+etymological
+etymological history
+etymological method
+etymology
+etymon
+Eurasia
+Europarl corpus
+Europarl Corpus
+Europe
+European Commission
+European Council conclusions
+European language
+European languages
+European Union
+EUROTYP
+evaluation
+evaluation of the machine output
+evaluative discourse
+Evaluative marker
+evaluatives Adjektiv
+evaluierbar
+event
+Event Identification
+event line
+event modifier
+event nominal
+event nominal phrase
+event predicate
+event structure
+event type
+event visibility hypothesis
+event-related brain potential
+eventiveness
+events culminated
+events that have culminated
+eventuality
+Eventvariable
+Evid
+evidence
+evidence versus criterion (for grammaticality)
+evidential
+evidential tense
+evidentiality
+evolution
+evolutionary biology
+evolutionary network
+Evolutionary Phonology
+exaptation
+exception
+Exceptional Case Marking
+exceptional case marking
+Exceptional Case Marking (ECM)
+exceptive
+excess
+excessive
+excitation operator
+excitation potential
+excited state
+exclamation
+Exclamative
+exclamative
+Exclusive
+exclusive
+exemplar
+exemplar prosody
+exemplarism
+exemplification
+exhaustive focus
+Exhaustive Lexicalization Principle
+exhaustivity
+Exhortative
+existence
+existential
+existential clause
+existential copula
+existential predication
+existential quantification
+existential quantifier
+existential sentences
+Existentialkonstruktion
+existentielle (phrase \elid)
+existenziell quantifizierende Gruppe
+Existenzpräsupposition
+Exklamativakzent
+exklamatives Prädikat
+Exklamativkonstruktion
+Exklamativsatz
+EXMARaLDA
+exogamy
+exophoric
+expanded verbal group
+Expansion
+expectation value
+expected accuracy
+experience
+experience coefficient
+experience factor
+experience vector
+experience-based HPSG
+experiencer
+experiencer predicates
+experiencer-object
+experienciador
+experiential
+experiential past
+experiential verbs
+experiment
+Experimental
+experimental design
+experimental method
+experimental semiotics
+experimental speech
+experimental study
+experimenter bias
+experimenter effects
+expert versus naive judgments
+explaining one's judgments
+explanation
+explanatory adequacy
+explanatory power
+expletive
+expletive construction
+expletive pronoun
+Expletiver Artikel
+Expletives
+expletives
+Expletives es
+explicit attention
+explicit discourse
+explicit instruction
+explicitation
+explicitness
+exploration
+exploratory behavior
+exponence
+exponent
+expository
+exposure
+expressing identity
+expression
+expression idiomatique
+expression of wish
+expression référentielle
+expressive emphasis
+expressive formations
+Expressivität
+extended projection principle
+Extended Projection Principle (EPP)
+extended stem
+extension
+Extension
+extension condition
+extensionnalité
+extensive
+extensive approach
+extensão média do enunciado
+external
+external argument
+external contractors
+external feedback
+External Homogeneity Condition (EHC)
+external participant
+external resources
+external support
+extra-grammatical mark-up
+extractable operator
+extraction
+extraction parallèle
+extraction path effect
+extraction path marking
+extrafocal
+extrahiert
+Extraktion
+extrametricidade
+Extraposition
+extraposition
+extremeness
+exzentrische Phase
+eye contact
+eye movement
+eye tracker
+eye tracking
+eye-key span
+eye-mind assumption
+eye-mind hypothesis
+Eye-tracking
+eye-tracking
+eyebrow
+eyestrain
+Eyetracking
+eyetracking
+eyetracking data
+eyetracking lab
+Ezafe
+f"=structure
+f-structure
+f0 contour
+f0 dynamics
+face to face interaction
+Fachkorpus
+Fachterminologie
+facial expressions
+facilitative
+factative TMA
+factive
+factivity
+factor analysis
+facts
+Factual Non-Past
+faculdade da linguagem
+Faculty of Language
+FAHQMT
+faithfulness
+faithfulness constraint
+faithfulness constraints
+Faktivität
+Faktizität
+Faktorisierung der Rekursion
+falante de herança
+falling accent
+falling intonation
+falling pitch
+false accusation
+false negative
+false positive
+falsetto
+falsification
+falsifying a theory
+familiar definites
+familiarity
+familiarité
+Family Bias Method
+Family Bias method
+family resemblance
+family size
+familylect
+Far Eastern Federal district
+fashion
+fast-paced dialogue
+FCI algorithm
+featural variables
+feature
+feature checking
+feature cooccurrence restrictions
+feature descriptions
+feature geometry
+feature percolation
+feature resolution
+feature selection
+feature structure description
+feature structures
+feature template
+feature templates
+feature transfer
+feature validity
+feature"=value structure
+Feature-Structure-based TAG (FTAG)
+feature-value structure
+features
+feedback
+feedback effect
+feedback signal
+felicity
+felicity conditions
+felicity-conditions
+female speaker
+female speech
+feminine
+feminine, unmarried women
+fenomenologia
+feral child
+festgelegtes Erkennungsproblem
+fiction
+fictional language
+field
+field (in)dependence
+figuration
+figurative language
+figure
+Figure
+FIGURE Corpus
+figure reflexives
+file change semantics
+File Change Semantics
+Filipino pidgin speakers
+filler
+filler-gap constructions
+film title
+final clause
+Final Over Final Constraint
+final peak
+final syllable
+final vowel
+final-over-final condition
+finality
+Finalsatz
+fingerspelling
+fingerspelling alphabet
+finite
+Finite
+finite closure
+finite complementizer
+finite copula
+finite verb
+finiteness
+finiteness phrase
+Finnish
+FinP
+first consonant
+first fixation
+first language acquisition
+First Law of Creole Studies
+first mora
+first person
+first person pronoun
+first rendition
+first token
+first-order logic
+Fisher's exact test
+fit for purpose
+fitness for purpose
+Fixation
+fixation
+fixation count
+Fixation counts
+fixation counts
+fixation duration
+Fixation duration
+fixation durations
+fixation point
+fixation probability
+Fixation Unit
+fixed expressions
+Fixed expressions
+fixed word order
+flagging
+flap
+FLAT
+Flesch reading ease score
+Flesch-Kincaid grade level
+flexeme
+flexibility
+flexibilité des types
+Flexible Composition
+flexible noun
+flexible syntax
+flexion
+Flexion
+flexion contextuelle
+flexion inhérente
+Flexionsform
+Flexionsklasse
+Flexionsklassen
+flexão
+floating modifier
+floating tone
+FLOB
+flow separation (FS)
+Fluctuation Hypothesis
+fluency
+Fluid Construction Grammar
+focal point
+focal stress
+focalisation
+focalization
+Focus
+focus
+Focus and prominence
+focus construction
+focus contrastif
+focus domain
+focus doubling
+Focus Establishing Constituents (FEC)
+focus group
+focus informationnel
+Focus Inheritance Principle
+focus marker
+focus movement
+focus particle
+focus point
+focus position
+focus projection
+focus prominence
+focus prosodique
+focus question
+focus sensitive
+focus sensitive item
+focus sensitive operator
+focus structure
+focus-sensitive particle
+focused elicitation
+focused phrase
+focusing
+Fokus
+Fokusexponent
+Fokusmarkierung
+Fokuspartikel
+Fokusprojektion
+fokusprojektiv
+Fokusstruktur
+FoLiA
+folks etymology
+folktales
+foncteur
+fonction
+fondateur
+fondation
+fondationelle
+fonologia
+fonologia linear
+fonologia natural
+fonologia não-linear
+font
+food chain, as system
+Foot
+foot
+Foot Feature Principle
+foot node
+for a certain group of Russian speakers
+force
+Force
+force illocutoire
+force projection
+Force-Projektion
+forced-choice identification task
+foreground gesture
+foregrounding
+foreign language
+foreign language classroom
+foreign-accented speech
+foreigner talk
+fork
+form classes
+Form-Cell
+Form-Correspondent
+Form-Paradigm
+formal instruction
+formal language
+formal language theory
+formal semantics
+formal speech
+formalism
+formalist movement
+formality, effect on grammaticality judgments
+formalization
+formation
+formation process of Japanese dialects (FPJD)
+formatives
+forme
+Formtyp
+formulaic
+Formulaic
+formulaic language
+formule
+fortis/lenis neutralization
+fortition
+forward application
+forward control
+fossilization
+fossilização
+fossilize
+founder effects
+fractal architecture
+fractal design
+fractality
+fraction
+Fraction
+fractions
+Frage
+Frage-Antwort-Folge
+Fragesatz
+fragment
+fragmentary utterance
+fragmento
+frame
+frame representation
+frame semantics
+frame setter
+frame-setter
+frame-setting
+frames of reference
+Franz Boas
+fraseologia formulare
+free choice item
+free clitics
+free online MT services
+free order
+free pronoun
+free relative clauses
+free relatives
+free state
+free variation
+free will
+free word order
+free-choice
+Freezing Condition
+Frege's puzzle
+Freiburg Corpus of English Dialects
+freier Relativsatz
+French
+French acquisition
+French Sign Language
+French TAG
+French Treebank
+frequency
+frequency code
+frequency distribution
+frequency, effect on grammaticality judgments
+frequentative
+frequentative aspect I
+frequentative aspect II
+frequência fundamental
+fricative
+Fricative
+fricative alveolar
+fricatives
+front diphthong
+front rounded vowels
+front vowel
+fronteira prosódica
+fronting
+frontline staff
+FROWN
+frozenness
+fseq
+fseq zone
+Fu\ss knoten
+full insight problem solving
+full post-editing
+Full word
+function
+function %composition
+function composition
+function of learning context
+function of task type
+function type
+function words
+functional application
+Functional Application
+functional association
+functional categories
+functional category
+functional domain
+functional equivalent
+functional explanations
+functional head
+functional items
+functional load
+functional morphemes
+functional principles
+functional projection
+functional relation
+functional typology
+functional uncertainty
+functionalism
+functive
+functor
+fundamental dialectological postulate
+Funktionale Grammatik
+Funktionstyp
+Funktionsverbgefüge
+Fusion
+fusion
+futur
+futurate
+Future
+future
+future auxiliary
+future construction
+future marker
+future meaning
+future perfect
+future perfect tense-aspect
+future tense
+fuzzy clustering
+fuzzy grammar
+Füllung
+Gabmap
+galled network
+galled tree
+Galton's problem
+game
+game theory
+Gansu
+gap position
+Gapping
+gapping
+gapping construction
+Gappingregel
+garden path
+garden path sentence
+garden paths
+garden-path effects
+gating paradigm
+Gattungsname
+gaze
+gaze behaviour
+gaze duration
+gaze time
+gaze-pointing
+GazeS
+GazeT
+gazing behavior
+GB-Theorie
+GCRR
+Gedankenbericht
+Geisteswissenschaften
+geminate
+geminate consonant
+gemination
+gender
+gender assignment
+gender differences
+gender effect
+gender feature
+gender of the participants
+gender stereotypes
+gender-based violence
+gene
+genealogical signal
+Genera
+general
+General American
+general grammar
+general information about the participants
+general knowledge, effect on grammaticality judgments
+general locative preposition
+generalised quantifier
+Generalisierung
+generalization
+generalized additive model
+Generalized Paradigm Function Morphology
+Generalized Phrase Structure Grammar
+Generalized Phrase Structure Grammar (GPSG)
+generalized quantifiers
+generation
+Generative Grammar
+generative grammar
+Generative Grammatik
+generative linguistics
+generative Mächtigkeit
+generative paradigm
+generative phonology
+Generative Semantics
+generative syntax
+generative theory
+Generative theory of tonal music
+generative tradition
+generativism
+generativist
+genereller cg
+Generic
+generic
+generic definites
+generic naming
+generic noun
+generic noun phrases
+generic nouns
+generic NP
+generic reference
+generic sentence
+genericity
+generics
+generisch
+genesis
+genetic bias
+genetics
+Geneva Convention
+Genitivattribut
+Genitive
+genitive
+genitive case
+genitive marking
+genitive noun phrase
+genitive prefix
+genitive preposition
+genre
+gentilic
+Genus
+Genus Verbi
+geo-linguistic distribution
+geo-linguistic mapping
+geografisch isoliert
+geografisch isolierte
+geographic information system (GIS)
+geographical distance
+geographical information systems (GIS)
+Geographical names
+geography
+geolinguistics
+geometria de traços
+geopolitical constitution
+geopolitical diversity
+georeferencing
+Georgetown Experiment
+Georgian Sign Language
+geospatial autocorrelation
+German
+German philosophy of language
+gerund
+gerund phrase
+gerunds
+GES algorithm
+gesamtbedeutung
+Gesetz der wachsenden Glieder
+Gesichtsbedrohung
+Gestalt
+gestalt
+Gestalt properties
+Gestalt psychology
+Gestalt Psychology
+Gestaltist
+Geste
+Gestenmodell
+Gestenpartitur
+gestural
+gestural coordination
+gestural score
+gestural-motoric organization
+gesture
+gesture affiliation
+gesture classes
+gesture classification
+gesture duration
+gesture event
+gesture meaning
+gesture space
+gesture stroke
+gesture typology
+gesture-as-byproduct
+gesture-as-product
+gesture-speech relations
+gestures
+GETA-group
+Getis-Ord Gi
+GF Resource Grammar Library
+Ghana
+given information
+givenness
+givenness hierarchy
+Gleichgewichtslage der Feder
+glide
+glide insertion
+glide truncation
+Glissando
+global uniqueness
+gloss
+Glossar
+Glosse
+glossing
+glottal
+glottal constriction
+glottal fricative
+Glottal plosive
+glottal stop
+glottal stop insertion
+glottale Abduktionsgeste
+glottalization
+glottis
+glottonymy
+glu logique
+glue language
+glue semantics
+Glue Semantics
+Glückensbedingung
+goal
+Goal
+goal oriented vs source oriented
+goal-oriented
+Gobi
+going to (future)
+Gola
+gold parse
+gold standard
+good continuation
+good effort
+good English
+gorilla
+Gorn-Adresse
+government
+Government and Binding
+Government-Binding
+Gozo
+GPSG
+gradability
+gradable adjective
+gradable adjectives
+gradable predicate
+grading
+Gradpartikel
+gradual place assimilation
+Graecism
+gramm-index
+grammaire
+grammaire catégorielle
+grammaire dérivationnelle
+grammaire générative
+grammaire lexicaliste
+grammar
+grammar competition
+grammar correction
+grammar engineering
+grammar exploration
+Grammar Matrix
+grammar of questions
+grammar of the body
+grammar pattern
+grammar tutoring
+grammar-dialogue interface
+grammar-phonology dependencies
+grammars
+grammatical
+grammatical accent
+grammatical aspect
+grammatical case
+grammatical cases
+grammatical coherence
+grammatical complexity
+grammatical form
+Grammatical Framework (GF)
+grammatical function
+grammatical functions
+grammatical gender
+grammatical marking
+grammatical relation
+grammatical relations
+grammatical role
+grammatical subject
+grammaticalisation
+grammaticalisation process
+Grammaticality
+grammaticality
+grammaticality judgment
+grammaticality judgments
+grammaticalization
+grammaticalization chain
+grammaticalization path
+grammaticalization process
+grammaticalization theory
+Grammatikalisierung
+Grammatikalisierungsparameter
+Grammatikalisierungspfad
+Grammatikalität
+Grammix
+gramática generativa
+granularity of dialectal areas
+graph theory
+graphical translation
+graphoid axioms
+gravity model
+Greater Himalayan Region
+Greater Manchuria
+greatest distance principle
+Greediness Constraint
+Greek
+greetings
+Grimm's law
+ground
+Ground
+grounded constraints
+grounded reasoning
+grounding
+grounding demotion
+grounding reorganization
+group affiliation
+group identity
+group numeral
+group phraseology
+grupo consonântico
+guided variation
+guidelines for contractors
+guidelines for the PE task
+Guinea
+Guiyang
+Gulf of Bohai
+Gungbe
+Gunning fog index
+Gurumbele
+guttural
+guttural sound
+Guyana
+Guyanese
+Guyanese creole
+Guyanese Creole
+Gyalrong languages
+género
+géneros de discurso
+génitif
+généralisation de Wasow
+généricité
+générique
+Göttingen
+h-drop
+habitual
+habitual aspect
+habitual past
+habitual present
+habitual reading
+habitual situation
+habituation
+hai (instrumental prep.)
+haka (causative)
+Haken
+hand gesture
+handedness, effect on language
+handshape
+hanging topic
+hapax legomena
+hapax legomenon
+hapax-token ratio
+haplogroup
+haplology
+harmonic improvement
+harmonic vs. non-harmonic
+harmony
+harmony rule
+Hauptakzent
+Haversine formula
+Hawaii
+Hawaiian Creole English
+haŋa (nominaliser)
+he (aspect marker)
+he (nominal predicate marker)
+head
+head directionality
+head domain
+head feature
+Head Feature Convention (HFC)
+Head Feature Principle
+head information
+head marking
+head movement
+Head Movement Constraint
+head noun
+head of finiteness phrase
+head raising
+head shake
+Head-All-Valents Schema
+Head-driven Phrase Structure Grammar
+Head-Driven Phrase Structure Grammar
+Head-driven Phrase Structure Grammar (HPSG)
+Head-Driven Phrase Structure Grammar (HPSG)
+Head-Feature Principle
+head-marking
+headedness
+headless
+headless noun phrase
+headless relative clauses
+headword
+headwords
+hearer
+hearer knowledge
+hearer-status
+hearsay
+hearsay evidentiality
+heaviness
+Heavy NP Shift
+Heavy shift
+Heavy"=NP"=Shift
+Heavy-NP-Shift
+Hebraism
+Heckenausdruck (hedge)
+hedge
+Heilongjiang
+heritage language
+hermeneutic
+hermeneutic circle
+Hervorhebung
+hesitation marker
+hesternal
+heteroclisis
+heterogeneity of processing hypothesis
+heterogeneous universe
+heterosemy
+heterossilábico
+heuristics
+Hiat
+Hiats
+hidden common cause
+Hidden Markov model
+hierarchical bipartite spectral graph partitioning
+hierarchical cluster analysis
+hierarchical clustering
+hierarchy
+hierarchy of specificity
+high boundary
+high ellipsis
+high tone
+Hilfsbaum
+Hilfsverb
+Himalayas
+Hinoki Treebank
+Hintergrund
+Hirnstimulation
+historical data
+historical dialectology
+historical linguistics
+historical origin
+historical phonology
+historical present
+historical relations
+historically derived
+historiography
+Hokkaid\=o
+hoko (numeral particle)
+Hole Semantics
+holistic approach
+Holmberg's generalization
+Holocene
+holophrases
+homeland
+hominids
+Homo erectus
+homogeneous universe
+homographs
+Homonymie
+homonymy
+homophone
+Hong Kong Sign Language
+Honshū
+horizontal placement
+horizontal transmission
+horror aequi
+Hortativ
+Hortative
+hortative
+hot spot analysis
+HP Labs
+HP-NL
+HPSG
+HTra
+human
+human factors
+human genome
+human language faculty
+human resources
+human vs. inanimate
+Humanism
+humanism
+humanities
+humour
+Hungarian
+hunter-gatherer
+hunting accidents
+hurdle
+hybrid systems
+hybridization network
+hydra clause
+hyper-raising
+Hyperartikulation
+hypercorrection
+hypernym
+hyperonymy
+hyponym
+hyponymy
+hypotaxis
+hypotenuse
+hypothesis
+hypothesis formation
+hypothetical conditional
+hypotheticals
+hē (content question marker)
+hō (dubitative)
+hū (demonstrative)
+i (accusative marker)
+i (perfective)
+i (preposition)
+I-language
+I-Topikalisierung
+i-within-i effect
+iambic versus trochaic
+iambus
+iamitive
+Ibibio
+Icelandic
+Ich-Erzähler
+ICLHE
+iconic gesture
+iconicity
+iconicity chains
+ICONS
+ICONS-KEY
+ID/LP grammar
+Ideal L2 Self
+ideal speaker-listener
+Idealisierung
+idealization
+iden\-ti\-ty-marking
+identifiability
+Identifiability
+identification
+identification task
+identificational construction
+identificational focus
+identificational predication
+identificação de rimas
+identifier
+identity
+Identity Function Default
+identity modifier
+identity thesis for language and music
+identity-marking
+identité
+ideology
+ideophone
+Ideophone
+ideophones
+idiolect
+idiolecte
+idiolects
+idiom
+idiomatic
+idiomatic interpretation
+idiomatic meaning
+idiomatic reading
+idiomatic sequences
+idiomatic usage
+idiomatic variation
+idiomatic verbal construction
+idiomaticity
+idiomatization
+idioms
+idéogramme
+idéographique
+IELex
+IISG
+ikonische Motivierung
+Ikonizität
+ilha
+ill-defined
+ill-defined problems
+ill-structured problem
+illative case
+illiterate speakers
+illocutionary
+illocutionary act
+illocutionary force
+Illokution
+Illokutionskomplement
+Illokutionsoperator
+Illokutionsschicht
+Illokutionstyp
+illokutionärer Kausalsatz
+illokutiv subsidiär
+illustrative grammars
+illustrator gesture
+image
+image composition
+image database
+image exploration
+image system
+imagery content of words (concrete versus abstract)
+imaginative capacity
+imagining situations, and grammaticality judgments
+imagistic gesture
+imagology
+imbrication
+imitation
+imitação espontânea
+immediacy
+immediate
+immediate dominance
+immediate dominance schema
+immediate future
+immediate organization
+immediate organization bias
+immediate partial repetition
+immediate past
+immediate situation
+immersion
+imminent
+Imperativ
+Imperative
+imperative
+imperative in clause chaining
+imperative interjection
+imperative modality
+imperative, plural
+imperatives
+Imperativsatz
+imperfect prefix
+Imperfective
+imperfective
+imperfective aspect
+imperfective converb
+imperfective paradox
+imperfective past
+imperfective suffix
+imperfective verbs
+imperfectivisation
+imperfectivization
+Impersonal
+impersonal
+impersonal construction
+impersonal passive
+impersonals
+implication
+implicational constraint
+implicational relations
+implicational scale
+implicational scales
+implicational universal
+implicational universals
+implicative
+implicative OCV
+implicature
+implicature conventionnelle
+implicatures
+implicit argument
+implicit arguments
+implicitation
+implied meaning
+Implikation
+Implikationsverstärkung
+Implikatur
+implizite Bedeutung
+implosive
+implosives
+importance
+imposition
+impositive
+Impoverishment
+impoverishment
+imprécision
+in situ
+in-house style guide
+in-situ focus
+inaccusatif
+inalienability
+inalienabilization
+inalienable
+inalienable possession
+inanimate
+inceptive aspect II
+inchoative
+inchoative verbs
+inchoatively
+Inclusive
+inclusivity
+inclusory
+inclusory plural interpretation
+Inclusory pronoun
+incomparability
+incomplete demonstratives
+incomplete neutralisation
+incomplete neutralization
+incompletive
+incorporation
+incremental
+incremental addition
+incremental change
+incremental homogeneity
+incremental organization
+incremental processing
+Incremental Recruitment Language
+incremental theme
+incrementality
+Indefinitartikel
+indefinite
+indefinite article
+indefinite articles
+indefinite determiner
+indefinite pronoun
+indefinite pronouns
+indefinite quantifiers
+indefinite suffix
+indefiniteness
+indefinites
+Indefinites
+Indefinitheit
+Indefinitum
+indenture
+independence
+independent clause
+independent possessive pronouns
+independent pronoun
+independent pronouns
+indeterminacy
+indeterminacy in grammar
+indeterminate verb
+indeterminate verbs
+index
+index finger pointing
+index palm down
+index palm vertical
+indexation
+indexical
+indexical expressions
+indexical extension
+indexical meaning
+indexicality
+Indian English
+Indian Sign Language
+indicating speaking direction
+indication of speaking direction
+indicative
+indicative (mood)
+indicative modality
+indicative mood
+indicative verb
+indicativo
+indicator
+indice
+indigenous language
+Indigirka
+indirect borrowing
+indirect object
+Indirect object
+indirect question
+indirect questions
+indirect reference
+indirect speech
+individu
+Individual CONStraints
+individual node
+individual title placement
+individual-level predicate
+individual-level predicates
+Individualität
+individuation
+Indo-European language family
+Indo-European studies
+Indo-Pakistani Sign Language
+INDRA
+inducing path
+induction
+indução de respostas
+indéfini
+InEff
+inequality
+inertia
+inertial
+inferable
+inference
+Inferential
+inferential
+inferential-realizational
+inferentiellen Theorien
+Inferenz
+Inferenzrelation
+infinite set
+infinite set conception
+Infinitiv
+infinitival
+infinitival VP
+infinitive
+Infinitivkonstruktion
+infinitivo
+infinitivo flexionado
+infinitivos raiz
+infinitude
+infinity
+infix
+infixation
+infixes
+INFL
+inflecteme
+inflection
+inflection classes
+inflectional
+inflectional class
+inflectional construction
+inflectional morphology
+inflectional paradigm
+Inflectional Specifiability Principle
+inflectionalization
+inflexibility
+inflexion verbale
+influential factor
+influential predictors
+influência negativa
+influência positiva
+InfoMap algorithm
+informant
+informant's comment
+information content
+information extraction
+information focus
+information gain
+information intake
+information packaging
+information pressure
+information retrieval
+information set
+information state
+information state model
+information status
+information structure
+information supply
+information-object
+informational uniqueness
+informationally stronger
+Informationsfrage
+Informationsstruktur
+Informationstheorie
+Informationsvordergrund/-hintergrund
+Informationszunahme/-abnahme
+informativeness
+informativity
+Informativität
+informing
+infrastructure
+ingressive
+ingressive airstream
+ingressive aspect
+inhaltlich-begründender V1-De\-kla\-ra\-tiv\-satz
+Inhaltsebene
+inherently prepositional verb
+inherently reflexive verb
+inheritance
+initial anxiety
+initial consonant
+initial organization operator
+initial position
+initial syllable
+initial tree
+Initialbaum
+initiator variable
+inkohärente Konstruktion
+Inkrementalität
+inkrementellen Theorien
+innate
+innateness (of language)
+Innenknoten
+Inner Asia
+inner aspect
+inner form
+inner linguistic form
+Innovation
+innovation
+Innovationen
+inomissibility
+input
+input dialect
+input lect
+input--output mappings
+input--output pairings
+inscriptions
+insertion
+insertion of segments
+insertion rate
+inside-out constraint
+instabiler Kontextzustand
+institutional translation
+instructions to subjects
+instrument
+instrument SVC
+instrumental
+instrumental agent
+instrumental case
+instrumental motivation
+instrumental reason
+insubordination
+integrated content
+integrated research and teaching
+integration strategy
+integrative motivation
+Integrity Constraint
+intelligibility
+intenseur
+intensidade
+intensification
+intensifier
+intensifiers
+intensifying function
+intension
+intensional contexts
+intensional entities
+intensionality
+intensionnalité
+intensionnel
+intensity
+intensive
+intentional
+inter-annotator agreement
+inter-individual differences
+inter-population differences
+inter-transcriber agreement
+interacionistas
+interaction
+interactional
+interactional ecology
+interactional linguistics
+interactive gesture
+interactive gestures
+interactive speaker-sample map
+interação controlada
+interação social
+interclausal meaning
+interconnectedness of language or reading comprehension and problem solving
+intercultural
+interdental fricative
+interdialect
+interface
+interface design
+Interface model
+interfaces
+Interfaces
+interference
+Interinstitutional Style Guide
+interior vowels
+interjection
+interjections
+interlanguage
+interlingual
+interlingual variation
+interlocutor
+interlíngua
+intermediate phrase
+intermediate prefixes
+internal
+internal and external knowledge
+internal argument
+internal borrowing
+internal change
+internal development
+internal feedback
+internal merge
+internal plural
+internal resources
+Internal resources
+internal structure of words
+internationalization
+Internet research
+internet survey
+interpersonal level
+interpersonal variation
+interpretation
+interpretation trajectory
+interpretational shift
+interpreter
+interpreting
+interpreting service
+interprétation directe/indirecte
+interprétation exemplifiante
+interprétation intersective
+interprétation non intersective
+interprétation partitionnante
+interrater reliability
+interrogation
+interrogativas
+interrogative
+Interrogative
+interrogative clause
+interrogative condition
+interrogative modality
+interrogative operator
+interrogative pronoun
+interrogative systems
+interrogative verb
+interrogatives
+interrogativity
+Interrogativpronomen
+Interrogativpronomens
+Interrogativsatz
+intersection property
+interspeaker variation
+interval context
+interval reading
+intervention
+intervention effects
+intervenção
+intervocalic position
+intonation
+Intonation
+intonation contour
+intonation unit
+intonational
+intonational inventory
+intonational pattern
+Intonational Phrase
+intonational phrase
+intonational-phrase boundary
+Intonationsphrase
+intonatorisch
+intra-morphological meaning
+Intra-speaker variation
+intraclass correlation coefficient (ICC)
+intralingual
+intralingual translation
+intransitive
+intransitive clause
+intransitive subject
+intransitive verb
+intrasystemic qualitative variation
+intrasystemic quantitative variation
+intrinsic argument
+intrinsic frequency
+intrinsisch
+introducer
+introspection
+introspectionism
+intrusive /r/
+Intuition
+intuition
+intuitiveness
+invariant
+Inventargröße
+invention
+inventory structure
+inverse
+inverse juxtaposition construction
+inversion
+inversion du sujet
+inversão sujeito-verbo
+invertierter Pseudo-Cleft-Satz
+Invisible Hand
+invisible hand processes
+involuntary agent construction
+iota operator
+iota shift
+ipfv
+ira (anaphor)
+Irish
+Irrealis
+irrealis
+irrealis modality
+irrealis mood
+irregular morphology
+irregular sound change
+irregular verbs
+irregularities in the gaze data
+irregularity
+irreversible Binomiale
+island
+island constraints
+island violation
+Islandic Sign Language
+islands
+islands (syntactic)
+islands, syntactic
+isogloss
+isolate
+isolate language(s)
+isolating languages
+Isolation
+isolierte Sprachgemeinschaft
+isolierte Sprachgemeinschaften
+isolierten Sprachgemeinschaft
+isolierten Sprachgemeinschaften
+Isomorphie
+isomorphism
+Isomorphismus
+isoradical
+Israeli Sign Language
+Istanbul, etymology of
+Italian
+Italian acquisition
+Italian Sign Language
+Item \& Arrangement
+item and arrangement
+Item-and-Arrangement
+Item-and-Process
+item-total correlation
+item-utterance fit
+item/system problem
+iterated learning
+iterated practice
+Iterative
+iterative
+iterative alternation
+iterative aspect
+iterative coincidence
+iterative interpretation
+iterative meaning
+iterative model
+iteratives
+iterativity
+Iterierbarkeit
+itive
+ITSM
+IWD (Information-Weighted Distance
+IWSA (Information-Weighted Sequence Alignment)
+iŋa (nominaliser)
+J\=omon
+Jacy
+Jamaica
+Jamaican continuum
+Jamaican Creole
+Jamaican social context
+Jamaican speech community
+JAMPRO
+Japan
+Japanese pidgin speakers
+Japanese Sign Language
+Jastrow rabbit-duck figures
+Jena
+Jews
+JIDC
+JNEC
+JNIP
+joint attention
+joint entropy
+joint reconstruction
+joke
+Juchitán
+judgement
+Jurchen
+jussive
+jussives
+just noticeable difference
+justification clause
+juxtaposition
+juxtaposition-cum-agreement
+juízo de gramaticalidade
+juízo de valor de verdade
+K-interrogatives
+ka (aspect marker)
+ka (numeral particle)
+Kahina
+kai (negator)
+kairemics
+kakari musubi
+Kaluli acquisition
+Kamakhal
+Kamchatka
+kanonischer Pseudo-Cleft-Satz
+Kappa score
+Karakorum
+Kasus
+Kasusmarkierung
+Kasusopposition
+Kategorialgrammatik
+Katua
+kausale Default-Interpretation
+kausale Relation
+Kenya
+key-logging
+keylogging
+Keylogging
+keylogging parameter
+keylogging software
+keylogging tool
+keyness
+keystroke effort
+keystroke logging
+keyword analysis
+ki (preposition)
+ki (preverbal)
+Kiel Intonation Model
+KIN-interrogative
+kind properties
+kind reference
+kind-level predicates
+kindergarten
+kinds
+kinematisch
+kinematische Messung
+Kingston
+kinship
+kinship systems
+Kinship term
+kinship term
+kinship terminology
+kinship terms
+Klassenbildung
+Klassenindex
+Kleene %star
+Kleene star
+Klitikon
+Knotenadresse
+ko (locative prep.)
+ko (prominence marker)
+Koanker
+Koartikulation
+koartikulatorisch
+koartikulatorische Resistenz
+kohärente Konstruktion
+Kohärenz
+Kohärenzfeld
+Kohärenzfeldschema
+Kohärenzrelation
+Kohärenztauglichkeit
+Kohäsionsmarker
+koine
+koinéization
+KOLHAPUR
+Kolyma
+Kommentar
+kommunikative Gewichtung
+Kompetenz
+Komplement
+Komplementierer
+Komplementsatz
+Komposition
+Kompositionalität
+Konditionalsatz
+Konferenzdolmetschen
+kongruent
+Kongruenz
+Konjunkt
+Konjunktion
+Konjunktionaladverb
+Konkretum
+Konsekutivdolmetschen
+Konsonantenverbindung
+konsonantische Stärke
+konstantes Wachstum
+Konstituente
+Konstituentenfolge
+Konstriktionsgrad
+Konstruktikon
+Konstruktion
+Konstruktionalisierung
+Konstruktionsgrammatik
+Konstruktionswandel
+Kontaktstellung
+Kontext
+kontextbedingte Variation
+kontextfreie Grammatik
+Kontexttyp
+Kontextwechselpotential
+Kontextwechseltheorie
+Kontraktion
+Kontrast
+kontrastiv
+kontrastive Betonung
+Kontrolle
+konventionelle Implikatur
+konversationelle Implikatur
+konzeptionelle Mündlichkeit
+konzeptuelles Deutungsmuster
+konzeptuelles Grundmuster
+Koordination
+Koordinationsmuster
+Koordinationsregel
+koordinierende Konjunktion
+Kopf
+Kopfbaum
+Kopiersprache
+Kopplung
+Kopplungsgraph
+Kopula
+Kopulakonstruktion
+kore (negator)
+Korea
+Korean Peninsula
+Korean pidgin speaker
+Koreferenz
+Korpus
+Korpuslinguistik
+Korrelat-es
+koā (collective)
+kreuzende Abhängigkeit
+kreuzende Kante
+Krorän
+Kucha
+kultureller cg
+Kumukh
+Kunlun
+Kurds
+Kuril
+kuā (collective)
+KWIC concordance
+L-index
+L-PERIPH
+L2 speakers
+label
+label propagation algorithm
+labeling
+labelling
+labial implosive
+labial plosive
+labialization
+labialized
+labile verbs
+lability
+Lady Nugent
+Lake Chad
+lalação
+Lancashire
+landscape
+landscape roughness
+langage objet
+language
+language acquisition
+Language Acquisition Device
+Language Acquisition Device (LAD)
+language anxiety
+language attrition
+language background questionnaire
+language bioprogram
+language change
+Language CoLLAGE
+language contact
+language contrast
+language death
+language decay
+language decolonization
+language development
+language diversity
+language documentation
+language endangerment
+language evolution
+language exposure
+language faculty
+language family
+language ideoligies
+language ideologies
+language ideology
+language imperialism
+language improvement
+language internal variation
+language isolate
+language learning
+language loss
+language maintenance
+language perception
+language planning
+language policy
+language preservation
+language resistance
+language revitalisation
+language revitalization
+language shift
+language shock
+language spread
+language strategy
+language survival
+language system
+language teaching
+language transfer
+language understanding
+language universals
+language use
+language variation
+language variety
+language-as-fixed-effect fallacy
+language-learning situation
+language-specific category
+languages
+languages, as unit of analysis
+large plural
+larger situation
+laryngeal
+laryngeal node
+laryngeal sounds
+laryngealization
+Lassy Treebanks
+late seventeenth century
+late sixteenth century
+latent consonant
+Latent Semantic Analysis (LSA)
+lateral
+lateral approximants
+latest move
+lattice
+laughter
+Lautsymbolik
+law (of language)
+Law of Exceptions
+lay concepts
+layer model
+Layering
+layout
+leader word
+learnability
+learnability (and discreteness of grammar)
+learner
+learner output
+learner-centric approach
+learning
+learning context
+learning history
+learning theory
+Lectures on Syntax
+leere Kategorie
+left associativity
+left branch condition
+Left Branch Constraint (LBC)
+left branch extraction
+Left Branch Extraction
+left dislocation
+left edge
+Left Peripheral Ellipsis
+left periphery
+left periphery prefix
+left-adjacent syllable
+left-branching
+left-dislocation
+left-headed
+leftmost syllable
+legal judgments (by juries)
+legal term
+legal translation
+legibility
+leitura
+Lemma
+lemma
+lemma frequency
+Lena
+length
+Length Complexity Index
+length-frequency rule
+Lengthening
+lengthening
+lenition
+Lesotho
+letramento
+letting the grammar decide (on unclear cases)
+level 1 affix
+level 2 affix
+leveling
+levelling process
+Levenshtein distance
+lexeme
+lexeme formation
+lexeme formation rule
+lexeme interpretation
+lexemic index
+lexemic individuation
+lexemic representation
+Lexemikon
+lexical
+Lexical Access model
+lexical ambiguity, and context effects
+lexical anchor
+lexical anchors
+lexical area
+lexical aspect
+lexical blocking
+lexical boost
+lexical borrowing
+lexical categories
+lexical category violation
+lexical causatives
+lexical chain
+lexical change
+lexical classes
+lexical cohesion
+lexical complexity
+lexical cs-system
+lexical decision
+lexical decision task
+lexical decomposition
+Lexical Decomposition Grammar
+lexical diffusion
+lexical diversity
+lexical entry
+lexical features
+lexical form
+lexical frequency
+Lexical Functional Grammar
+Lexical Functional Grammar (LFG)
+lexical gemination
+lexical head
+lexical influence
+lexical innovation
+lexical integrity
+Lexical Integrity Hypothesis
+lexical item
+lexical items, effect on grammaticality judgments
+Lexical Mapping Theory
+Lexical Mapping Theory (LMT)
+lexical markers
+lexical material
+lexical meaning
+lexical mistranslations
+Lexical Phonology
+lexical prefix
+lexical prefixes
+lexical priming
+lexical problem
+lexical problem solving behaviour
+lexical problems
+lexical prominence
+lexical reciprocal
+lexical relatedness
+lexical replacement
+lexical representation
+lexical research behaviour
+Lexical Resource Semantics
+Lexical Resource Semantics (LRS)
+lexical richness
+lexical root
+lexical rule
+lexical s-system
+lexical sign
+lexical stage
+lexical stem
+lexical stipulation
+lexical stratum
+lexical stress
+lexical system
+lexical types
+lexical variable
+lexical variation
+lexical verb
+Lexical word
+Lexical-Functional Grammar
+Lexical-Functional Grammar (LFG)
+lexicalised component
+lexicalism
+Lexicalist Hypothesis
+lexicalist hypothesis
+lexicalization
+lexicalized
+lexicalized compounds
+Lexicalized TAG (LTAG)
+lexico-phonetic input
+lexicographe
+lexicographer
+lexicographes
+lexicographie
+lexicography
+lexicology
+lexicon
+lexicon extraction
+Lexicon Optimization
+Lexicon-Grammar
+lexifier
+lexifier language
+lexikalische Theorie
+Lexikalisierung
+Lexikonregel
+lexis
+lexème
+LF interface
+LF-copy
+liaison
+liaison (French)
+Liao
+Liao-dynasty
+Liaoning
+Liberia
+libfix
+Libya
+licensing
+licensing ellipsis
+licensing head
+lieur
+life forms
+light Get
+light Give
+light verb
+light verb construction
+light verb constructions
+light-verb construction
+lightness
+Likert scale
+line break
+line spacing
+lineage
+linear %precedence
+Linear Context-Free Rewriting Systems (LCFRS)
+linear correspondence axiom
+linear deletion
+linear logic
+linear mixed model
+Linear Mixed Model
+linear order
+linear precedence
+Linear Precedence Rule
+linear programming
+linear regression
+linear time
+linearisation
+Linearisierung
+Linearisierungsdomäne
+linearization
+linearization grammar
+linearization rule
+lingua
+lingua franca
+linguist
+linguist/nonlinguist differences
+linguistic
+linguistic accommodation
+linguistic analysis
+linguistic area
+linguistic change
+linguistic competence
+linguistic complexity
+linguistic conditioning
+linguistic continuum
+linguistic convergence zones
+linguistic development
+linguistic diversity
+linguistic dominance
+linguistic evidence
+linguistic feature mapping
+linguistic features
+linguistic fieldwork
+linguistic generalization
+linguistic history
+linguistic hypothesis testing
+linguistic imperialism
+linguistic influence
+linguistic information
+linguistic input
+linguistic insecurity
+linguistic item
+linguistic items
+linguistic knowledge
+Linguistic Knowledge Builder (LKB)
+linguistic maps
+linguistic pluralism
+linguistic research
+linguistic setting
+linguistic sign
+linguistic structuralism
+linguistic typology
+linguistic unit
+linguistic universal
+linguistic variation
+linguistica storica
+Linguistics
+linguistics
+linguistische Struktur
+linguists' disease (accepting ill-formed sentences)
+linguística generativa
+link
+Link Grammar
+linkage problem
+linker
+linking
+linking consonant
+linking verb
+linking vowel
+Linksstellung
+Linkstilgung
+Linksversetzung
+linéarisation
+lip movement
+lip-pointing
+liquid
+list
+list intonation
+listeme
+literacy
+literacy, effect on language skills
+literal meaning
+literal translation
+literal translation hypothesis
+literalness
+literary language
+literary standard
+literary usage
+literate speakers
+Liverpool
+load-bearing
+load-bearing variable
+loan intonation
+loan words
+loaned
+loaned verbs
+loanword
+loanwords
+local dependencies
+local domain
+local domain reshuffling
+local management system
+local maximum
+Local Phone Rate
+local reflexivization
+local standard
+Localism
+locality
+locality-by-locality distribution
+localized system
+location of ungrammaticality
+locational
+Locational
+locational copula
+locational predication
+Locative
+locative
+locative adverbials
+locative alternation
+locative case
+locative clauses
+locative in-
+locative nouns
+locative participle
+locative prepositions
+locative sentences
+locative verbs
+locative voice
+locatives
+locomotion
+locus
+locutionary act
+locutions figéés
+LOG-IT
+log-likelihood ratio test
+logarithm
+logic instruction
+logical flow
+logical form
+Logical Form (LF)
+logical positivism
+logical problems
+logical subject
+logical variable
+logicism
+Logische Form
+logische Stelligkeit
+logistic regression
+logophoric pronoun
+London-Lund corpus
+long boat
+Long Distance Scrambling (LDS)
+long nucleus
+long vowel
+long"=distance dependency
+long-distance dependencies
+long-distance dependency
+long-distance reflexives
+long-distance reflexivization
+longboat
+looking
+loss vs. maintainence
+low activation cost
+low back vowel
+low boundary tone
+low central vowel
+low degree on
+low ellipsis
+low pitch
+low tone
+low vowel
+low-frequency words
+lower layering
+lowering
+LP"=rule
+LP-rule
+LPC analysis
+LTAG
+Lutheran missionaries
+Lutherian missionaries
+LXGram
+légitimation indirecte
+léxico
+língua de herança
+língua estrangeira
+língua gestual
+língua não materna
+língua segunda
+M constraint
+m-Feature
+m-feature
+m-separation
+m-T-pronouns
+Macao
+macaque
+machine learning
+machine translation
+macro
+macro translation unit
+macrocontextual problems
+macroparameter
+macroscale
+MAdjs
+MAdv
+main clause
+main event line
+main focus
+main stress
+mainland Southeast Asia
+Mainland Southeast Asia
+Mainly external support with additional internal support
+Mainly internal support with additional external support
+Mainstream Generative Grammar (MGG)
+maintainability
+major
+Major Constituent
+majority-based reconstruction
+mal-rule
+Malawi
+Malayalam
+Malaysia
+male speaker
+maleficiary
+Malta
+Maltese community
+Maltese society
+mammalian communication systems
+Manado Malay
+management competence
+Manchuria
+Manchurian Plain
+Mandarin Chinese
+manifest field
+manipulative verbs
+manipulação figurativa
+Mann-Whitney-U test
+Mann-Whitney-U-test
+Mann-Whitney-U-tests
+manner
+manner adverb
+manner adverbs
+manner clauses
+manner deixis
+manner of articulation
+manner of motion
+Mantel testing
+Mantuanity
+manual analysis
+manual channel
+mapping
+mapping hypothesis
+marcador de plural
+marcadores clínicos
+marcos de desenvolvimento
+marginal phonemes
+marginal reconstruction
+marginal sentence
+marginalia
+mariner
+maritime communities
+maritime economy
+maritime language
+maritime speech
+mark-up
+marked on this scale
+marked topic
+marked-S languages
+markedness
+markedness constraint
+marker
+market
+Markierer
+markierte Abfolge
+Markiertheit
+Markiertheitsunterschied
+Markov Causal Condition
+Markov condition
+Markov equivalence
+Markov model
+marquage casuel
+marquage différentiel de l'objet
+marquage prépositionnel
+marriage
+marxismo
+masculine
+masdar
+Maslov criterion
+mass media broadcasting
+mass noun
+mass nouns
+Mass, language of
+mass/count distinction
+Massennomen
+massique
+matching
+Mate
+material
+Matlab
+matrix clause
+matrix language frame model
+matrix predicate
+matrix verb
+Matrixverb
+matryoshka
+matter borrowing
+matter of degree
+matter replication
+maturation
+maturation effects
+mau (plural marker)
+Mauritius
+maximal ancestral graph (MAG)
+Maximal Question Under Discussion (MAX-QUD)
+maximale Aktivierung
+Maximalgeschwindigkeit
+maximality
+Maxime de Quantité
+Maxime der Qualität
+Maximum Entropy
+maximum likelihood
+maximum parsimony
+maximum point
+McGraw-Hill Education
+McGurk effect
+mean
+mean fixation duration
+mean span
+meaning
+meaning constructor
+meaning differentiation
+meaning experience
+meaning extension
+meaning predictability
+Meaning Preservation
+meaning shifts
+meaningful vs. meaningless
+measure dimension
+measure function
+Measure Identification
+measure of change scale
+measured entities
+measurement
+measures
+Mecca
+mechanics
+mechanism
+medial
+medial consonant
+medial position
+median
+median network
+mediation
+medida de resultados
+medidas comportamentais
+medidas electrofisiológicas
+mediopassive
+medium
+Medjay
+mehrfache Extraktion
+mehrfache Vorfeldbesetzung
+Mehrwortausdruck
+melodic contour
+melodic element
+meme
+memes
+memorability
+Memories
+memory
+memory decay
+memory for sentence, as evidence of (un)grammaticality
+memory limitations
+memory structure
+mental access
+mental lexicon
+mental representation
+mental states
+mental storage
+mental universals
+mental world
+mentalism
+merchant
+merchant service
+mereological relations
+Merge
+merge
+merged
+merger
+merges
+Merkmalsperkolation
+Merkmalsstruktur
+meronyms
+Merseyside
+Meso-American languages
+mesoclitics
+mesolect
+meta-grammar
+metacognitive behaviors, commonalities among
+metacorpus
+metadata
+metagrammar
+Metagrammatik
+Metagraph Grammar
+metalinguistic  tasks
+metalinguistic performance (skills)
+metalinguistic stances
+metalinguistic tasks
+metanalysis
+Metapher
+metaphor
+metaphoric and metonymic readings, effect on grammaticality judgments
+metaphorical gesture
+metaphorical pattern analysis
+metaphoricity
+metaphoricity level
+metaphoricity signal
+metaphysics
+metarule
+metarules
+metascientific orientations
+metathesis
+Metathesis
+metatypy
+methodological approach
+methodology in generative grammar
+Metonymie
+metonymy
+metrical grid
+Metrical structure
+metrical tree
+metrics
+Metrik
+metropolitan norm
+Micro-Cues
+micro-macro relation
+micro-syntax
+microcephalin
+microcontextual problems
+microgenetic
+microgenetic frame
+microparameters
+microprosody
+microscale conception
+microscale conceptualization
+microscale model
+microscopic model
+microtoponym
+microvariation
+middle
+middle construction
+Middle Construction
+Middle East
+middle voice
+migrant
+migration
+mildly context sensitive
+mildly context"=sensitive grammar
+mimetics
+mini-linguist
+minimal effort principle
+minimal lateral network
+minimal pair
+Minimal Recursion Semantics
+Minimal Recursion Semantics (MRS)
+minimal word
+Minimalism
+minimalism
+Minimalist
+minimalist
+Minimalist Grammar
+Minimalist Grammars
+Minimalist Program
+Minimalist Program (MP)
+minimiser
+Minimize (PF:LF) Mismatch
+minimum of the scale
+minimum sensitivity
+Ministry of Education
+minority language
+mirative
+Mirative
+Mirror Theory
+mirror-gazing, effect on self-awareness
+misarticulation
+miscommunication
+misleading MT
+misparsing
+misperception
+Missing VP effect
+mistake
+mitochondrial DNA
+MITRE
+Mitteilungswert
+Mittelfeld
+Mitverstehen
+MIX-Sprache
+mixed effects model
+mixed effects model framework
+mixed languages
+mixed linkage
+Mixed questions
+mixed syntax
+mixed-effects linear regression
+mixed-effects regression modelling
+MLRS
+mo (benefactive prep.)
+mo (preverbal)
+Moba
+modal
+modal adverbial
+modal anchor
+modal base
+modal complement
+modal enclitic
+modal flavor
+modal force
+modal head
+modal interrogative
+modal participle
+modal predicatives
+modal verb
+modal verbs
+modale Abtönungspartikeln
+modaler Kausalsatz
+modaler Konzessivsatz
+modality
+modalité
+Modalverb
+mode
+model"=theoretic grammar
+model-building
+model-theoretic grammar
+Modellierung
+modelling
+moderate positivists
+modern usage
+modification
+modification de prédicat
+modification marking
+modified kinds
+modifier
+modifier classifiers
+modifier position
+modifiers
+modifieur
+Modifikation
+modo de articulação
+modular feed-forward models
+modularidade na aquisição da linguagem
+modularity
+modulation
+module
+modus ponens
+modèle
+Mon-Khmer languages
+monde
+money
+Mongolia
+Mongolian Plateau
+monitor
+monitor model
+mono-dialectal account
+mono-dialectal origin
+monolingual
+monolingual post-edited texts
+monolingual review
+monolingual setting
+monologue
+monophthongization
+monophthongs
+monopthongization
+monosemy
+monosyllabic
+monosyllabicity
+monosyllable
+monotone faithfulness
+monotonicity
+Monotonicity Hypothesis
+monotonie
+monovalent
+monovalent verb
+Months, names of
+montée
+mood
+Mood / Utterance Type
+MOPEDS framework
+mora
+Mora
+morceme
+morfema
+morfologia
+Morph Ordering Principle (MOP)
+Morphem
+morpheme
+morpheme-specific
+morphemes
+morpho-phonetic interface
+morpho-phonological interface
+morpho-syntactic
+morpholexical signature
+morphological analyzer
+morphological annotation
+morphological complexity
+morphological distance
+morphological effect
+morphological gemination
+morphological inflection
+morphological operation
+morphological paradigm
+morphological prefix
+morphological process
+morphological processing
+morphological productivity
+morphological representation
+morphological salience
+Morphological Segmentability Hypothesis
+morphological theory
+morphological variable
+morphological variation
+morphologically simpler
+morphologisch
+morphology
+morphology, effect on grammaticality judgments
+morphome
+morphophonemic cluster
+morphophonemic processes
+morphophonology
+morphosyntactic
+Morphosyntactic Alignment Principle
+morphosyntax
+morphotactics
+mother tongue
+mothers, role in the acquisition of language
+Motigu
+motion
+motion events
+motion verb
+motion verbs
+motion verbs, caused motion
+motion-action SVCs
+motion-cum-purpose construction
+motion-direction SVCs
+motivational
+mouse
+mouvement
+Move
+movement
+movement chain
+movement rules
+movement trajectory
+movement verb
+movimento
+moving observer
+MT output
+MT system
+Mugi
+Mukar
+Multi-Component TAG
+Multi-Component TAG (MCTAG)
+multi-dimensional scaling
+multi-layer annotation
+multi-model inferencing
+multi-value ML reconstruction
+multi-value MP reconstruction
+multi-verb
+multi-word
+multi-word expression
+multichart
+multidimensional scaling
+multidominance
+multilingual
+multilingual context
+multilingual corpus
+multilingual dictionary
+multilingual parser
+multilingual setting
+multilingualism
+multilingualism, asymmetrical
+multilogue
+multimodal chart parser
+multimodal communication
+multimodal ensemble
+multimodal grammar
+multimodal information
+multimodal integration
+multimodal integration scheme
+multimodal therapy
+multimodal utterance
+multimodalité
+multiple affixes
+multiple answers
+multiple exponence
+multiple fronting
+multiple inheritance
+multiple linear regression
+multiple regression
+multiple spell-out
+multiple times
+multiplexity
+multiplicative numeral
+multiplicative numerals
+multiplicity problem
+multipropositional sentences
+multitoken word
+multivariate analysis
+multivariate techniques
+multiword
+multiword expression
+multiword expressions
+Multiword Expressions
+multiword token
+multiword unit
+Munda languages
+Munit
+music
+musical protolanguage
+Muslims
+mutation
+mutiny
+mutual beliefs
+mutual entailment
+mutual information
+mutual intelligibility
+MWE alignment
+MWE extraction
+MWE parsing
+MWE recognition
+MWE representation
+MWE representations
+MWEs
+mythology
+méronymie
+métodos experimentais em perceção da fala
+Müller-Lyer illusion
+mā (benefactive prep.)
+n-grams
+n-word
+N400
+Nachfeld
+naive subjects (nonlinguists)
+naive versus expert judgments
+name
+name avoidance
+named entity
+named entity recognizer
+named place
+naming game
+nano-diachrony
+Nanosyntax
+nanosyntax
+Narration relation
+narrativas
+narrative
+narrative markers
+narrative perfective aspect
+narrative present
+narrative sequence
+narrative tense
+narrative text
+narrativer V1-Deklarativsatz
+narrow actor focus
+narrow contrastive focus
+narrow focus
+narrow language faculty
+narrow scope
+narrow syntax
+nasal
+Nasal
+nasal consonants
+nasal infix
+nasal suffix
+nasal vowels
+nasalidade
+nasalisation
+nasality
+nasalization
+nasals
+Nateni
+native language
+native speaker
+nativism
+natural
+natural boundary
+natural class
+natural ecology
+natural endpoint
+natural focus
+natural gaze behaviour
+natural gender
+Natural Language Logic
+Natural Language Processing
+natural language processing
+natural meaning
+natural ontology
+natural selection
+natural speech
+natural stimuli
+natural translation environments
+naturalness
+Naturwissenschaften
+navzdory této
+Ncam
+Neanderthals
+Neapolitan Italian
+Necker cubes
+negated
+Negation
+negation
+negation marker
+negation reading
+negative
+negative acoustic feedback
+negative alternative question
+negative cleft constructions
+negative concord
+negative copula
+negative evidence
+negative feedback effect
+negative in-
+negative information
+negative particle
+negative phrases
+negative polar question
+negative polarity
+negative polarity item
+negative transfer
+negative translatability indicators
+negative verb
+negator
+negação
+nei (proximal)
+neighbor-joining algorithm
+neighbor-net
+NeighborNet
+neo-construct
+neo-construct-state construction
+Neo-Davidsonian semantics
+Neogrammarians
+neologism
+nephew
+nested isoglosses
+network
+network structure
+neural infrastructure
+neural MT systems
+neural network
+neurolinguistic
+neuter
+neutral order
+neutral perfective
+neutral perfectives
+neutral speech
+neutrale Abfolge
+neutraler Erzähler
+neutralisation
+neutralization
+new dialect
+new dialect formation
+new focus
+New Guinea
+new information
+New Prague School
+new term
+New Testament
+new topic
+new-dialect formation
+newness
+newspaper language
+niche construction
+nicht-finites Verb
+nicht-konkatenative Flexion
+nicht-propositionale Bedeutung
+Niger
+Niger-Congo
+Nigeria
+Nirvana
+NNSs
+No Embedding Constraint
+no tampering condition
+No Tampering Condition (NTC)
+no translation
+no-research instances
+node
+Node Sharing
+noise
+noise indication
+noise source
+noise transcription
+noisy channel model
+noisy clustering
+nome
+nomenbezogener weiterführender Relativsatz
+nominal
+nominal  component
+nominal anchoring
+nominal base
+nominal classifications
+nominal collocation
+nominal data
+nominal dimension
+nominal ellipsis
+nominal expression
+nominal feature
+nominal form
+nominal omission
+nominal predicate clause
+nominal predication
+nominal roots
+nominal sentence
+nominal subject
+nominal word order
+nominalisation
+Nominalisation
+nominaliser
+Nominalität
+nominalization
+Nominalization
+nominalizations
+nominalize
+nominalized clause
+nominalized verb
+nominalized verbal complex
+nominalizer
+Nominalklammer
+Nominalphrase
+Nominalphrase (NP)
+Nominalsyntax
+Nominativ
+Nominative
+nominative
+nominative agent
+nominative case
+nominative subject
+nominative-accusative marking
+non-anaphoric element
+non-binary
+non-bound sentence
+non-bound sentence item
+non-cancellation
+non-compo\-sitionality
+non-compositional
+non-compositionality
+non-concatenative
+non-concatenative morphology
+non-configurationality
+non-connective
+non-contrastive focus
+non-contrastive topic
+non-dual
+Non-Expansion Hypothesis (NEH)
+non-final clause
+non-finite clause
+non-human
+non-literal translatability
+non-locative prepositions
+non-main clause
+non-native English
+non-native segment
+non-native speakers of English
+non-nominative focus
+non-past
+non-perfectivising
+non-plural
+non-prefixed
+non-pronouns
+non-quotative
+non-restriktiver Relativsatz
+non-saturating functions
+non-sentential utterances
+non-singular
+non-specific verb
+non-standard negation
+Non-Tangling Condition
+non-verbal
+non-verbal actions
+non-verbal communication
+Non-well-nestedness
+noncanonical reorganization
+nonce formation
+nonce-formation
+nonderived environment blocking
+nonfinite
+nonintrusive measures of grammaticality
+nonlinguistic behavior, parallels with language
+nonlocal dependency
+Nonlocal Feature Principle
+nonpunctual aspect
+nonsentential utterances
+nontransitive paradox
+normal science
+normal speech
+normal transmission
+Normalbetonung
+normale Abfolge
+normalisation
+normalization
+normalize
+normative
+normative accountability
+normative behavior
+normative thinking
+normativity
+Norsource
+North America
+North Asia
+North Korea
+north-south divide
+Northeast Asia
+Northeast Eurasia
+Northern Australia
+Northern subject rule
+NorthEuraLex
+Norwegian Sign Language
+not become perfective
+nota genitivi
+noteworthiness
+noteworthyness
+Notion Rule
+Notwendigkeit
+Noubades
+Noun
+noun
+noun class
+Noun class
+noun classes
+noun classifiers
+noun complement
+noun complement clause
+noun compound
+noun head
+noun incorporation
+noun phrase
+Noun phrase
+noun phrase adverbials
+noun phrase structure
+noun phrases
+noun type
+noun types
+noun-verb distinction
+nouns
+novelty
+Novelty/Familiarity Condition
+novices
+Novices
+now-or-never bottleneck
+NP"=split
+NP-split
+NP/DP Approach
+NPN Construction
+NPN construction
+nuclear accent
+nuclear pitch
+nuclear stress
+nucleus
+nuklear
+Nuklearakzent
+Null Complement Anaphora
+null determiners
+null expletive
+null hypothesis
+null object
+null objects
+Null Objects
+null possessive
+null pronouns
+null subject
+null subject languages
+null subjects
+Null-Anapher
+null-subject language
+Null-Topik
+number
+Number
+number agreement
+number features
+number neutrality
+numeral
+Numeral
+numeral `one'
+numeral blocking
+numeral classifier
+numeral classifier languages
+numeral classifiers
+numeral system
+Numeral, cardinal
+numerals
+numeration
+Numeri
+Numerus
+NumP
+Nusa Tenggara Timor
+nécessaire
+négation
+núcleo fixo
+número
+nā (demonstrative)
+nī (demonstrative determiner)
+o (possessive prep.)
+o"=command
+o-bind
+o-binding
+o-bottom
+o-command
+o-free
+o/f-Klassifikation
+Oberflächenstruktur
+Object
+object
+object control
+object dislocation
+object drop
+object index
+object marker
+object marking
+object metaphor
+object noun
+object omission
+object position
+object right-dislocation
+object shift
+object-fronting
+object-transformation schema
+objective conjugation
+objective self-awareness (OSA)
+objects
+Objekt
+Objektinkorporierung
+objektive Modalität
+Objektlücke
+objeto direto
+objeto nulo
+obligation
+obligative
+obligative mood
+obligatoriness
+obligatory gesture
+oblique
+Oblique
+oblique (case)
+oblique agent
+oblique argument
+oblique case
+oblique phrase
+oblique stem
+Oblique subjects
+obliqueness
+Obliqueness
+obliqueness hierarchy
+obliqueness order
+oblíquo
+Obokh
+observational %adequacy
+observational adequacy
+observational method
+observational study, difficulties of
+observações sistemáticas
+observer viewpoint
+obstruent
+obstruent-initial consonant
+obviation
+obviative
+obviação
+occupation
+Off-Line Parsability
+off-screen noise
+official language
+official languages
+Okhotsk culture
+Okhotsk people
+olfactory judgments
+Omaha skewing rule
+omission
+one delimitation per event
+One Feature One Head Principle
+one-marked-point
+ongoing interpretation
+online resources
+onomatopoeia
+Onomatopoesie
+Onset
+onset
+onset cluster
+onset consonant
+ontogenetic
+ontogenetic frame
+ontogeny
+ontology acquisition
+ontology of language
+opacity
+opake Einstellung
+opaque
+open alternative question
+open hand pointing
+open initiator variable
+open scale
+open-source
+operation tests
+Operationalisierung
+operationalization
+Operator
+operator
+operator movement
+operator position
+opinion analysis
+opinions on MT
+opportunity
+opposite
+oppositive
+optative
+Optativsatz
+optimality theory
+Optimality Theory
+Optimalitätstheorie
+optional case marking
+optional infinitive
+optionality
+optionality in grammar
+opérateur
+oral
+oral discourse
+oral literature
+oral narrative
+oral production
+oral vowels
+orales
+orality
+orações finais
+order
+order of objects
+order of presentation (of sentences)
+order parameter
+ordinal data
+ordinal numeral(s)
+ordinal numerals
+ordinals
+ordinary language
+ordinary language philosophy
+Ordos Plateau
+ordre (acte de langage)
+ordre de mots
+organ
+organism-environment system
+organization of the lexicon
+Orientalism
+orientation
+orientation phase
+origin hypothesis
+orphan noun
+Orthodox Church
+orthographe
+orthographic
+orthographic transcription
+orthographic transparency
+Orthography
+orthography
+Ortsgrammatik
+Ortsgrammatiken
+oscillation
+ostensive
+Oszillator
+out-of-the-blue-Äußerung
+outer aspect
+outlier
+outsourced translation
+over-marking
+overabundance
+overall aesthetic experience
+overall cohesiveness
+overall image composition
+overfitting
+overlapping
+overlapping minimal building
+overspecification
+overt commentary
+overt marking
+overt movement
+overt operator
+overtness
+Overtness Requirement
+P-stranding
+p-word
+P600
+P\=aṇinis Prinzip
+paciente
+Pacific languages
+Pacific Ocean
+Pacific Rim
+Pacific Rim area
+padrão
+paire contrastive
+palatal
+palatal glide
+palatalization
+palavra prosódica
+palavras funcionais
+palavras lexicais
+palavras-wh
+Paleo-Eskimos
+Palisma
+palm-up gesture
+Pamir
+Pamir-Hindukush Sprachbund
+pan-dialectal account
+Pandora's Box
+pantomime
+Papuan contact zone
+paradigm
+paradigm function
+Paradigm Identifier
+paradigmatic axis
+paradigmatic opposition
+paradigmatic probability
+paradigmatic relation
+paradigme de flexion
+ParadigmUniformity
+ParaDis model
+paralinguistic
+paralinguistics
+parallel architecture
+parallel corpora
+parallel corpus
+parallel processing
+parallel system borrowing
+parallelism
+parameter
+parameter hierarchies
+Parametermodifikation
+parameters
+parametric variation
+Parametrized DP Hypothesis
+paraphrasing model
+parasitic gap
+parasitic gaps
+parasynthesis
+parataxis
+parent relation
+parent-child interaction
+parentheticals
+parepómena
+ParGram
+Parole
+paroxytonic
+parse
+parse forest
+parse ranking
+parse selection
+PARSEME
+parseme-tsv
+parser
+Parser is Grammar
+parsimony network
+parsing
+Parsing
+parsing algorithm
+Parsing as Deduction
+parsing problems
+part of the hierarchy
+part-of-speech
+Part-of-Speech
+part-of-speech tagging
+part-whole relationship
+partial ancestral graph (PAG)
+partial correlation
+partial eventuality
+partial insight problem solving
+partial matching
+partial topic
+partial verb phrase fronting
+participant
+participant observation
+participant variable
+participant-introducing SVCs
+participants
+participants' status
+participatory research
+participe
+participial
+participle
+Participle
+participle movement
+participle phrase
+participles
+Particle
+particle
+particle sense classes
+particles
+partielle Korrektur
+Partikel
+Partitiv
+Partitive
+partitive
+partitive case
+partitive construction
+partitive interpretation
+partitive object
+partitive subject
+partitives
+partitivity
+Partizip
+parts of speech
+parts-of-speech
+parâmetro
+Passiv
+passiva
+passive
+Passive
+passive auxiliary
+passive construction
+passive participle
+passive voice
+passive(
+passive)
+passivization
+passé
+past
+Past
+Past Imperfective
+past participle
+past passive participle
+past perfect tense-aspect
+past tense
+past tense marking
+past-before-past tense
+past-tense negative verb suffix
+pastoralism
+Patavinity
+path
+path (in graph)
+path equation
+path scale
+pathology
+patient
+patient argument
+patient voice
+patois
+PATR-II
+patriotic sentiment
+pattern
+pattern borrowing
+pattern congruity
+Pattern Dictionary of English Verbs
+pattern grammar
+pattern replication
+pausa
+pause filler
+pauses
+PC* algorithm
+PDTB
+PE guidelines
+peak velocity
+Pearson correlation
+pedigree of man
+peeling
+pending
+Penn Treebank
+pensamento verbal
+penultimate stress
+penultimate syllable
+percentagem de consoantes corretas
+perception
+perception experiment
+perception of speech
+perception test
+perception-action cycle
+percepts
+perceptual deviation
+perceptual dialectology
+perceptual distance
+perceptual span
+perceptual strategies, and grammaticality judgments
+perceção
+perdurative
+perdurative prefix
+perfect
+perfect aspect
+perfect progressive
+perfect tense-aspect
+perfective
+perfective aspect
+Perfective aspect
+perfective converb
+perfective verb
+perfective verbs
+perfectives
+perfectivisation
+perfectivity
+perfectivization
+Perfekt
+performance
+Performance-Grammar Correspondence Hypothesis
+Performanz
+performative
+performative speech
+performative speech act
+performatives Modalverb
+periferia
+periodic time
+peripherer Nebensatz
+Periphery
+periphery
+periphrasis
+periphrastic
+periphrastic causative
+periphrastic paradigm
+periphrastic verb form
+perlative
+perlocutionary act
+perlocutionary effect
+permansive
+permissible onset
+permutation
+permutation of letters
+persistence
+persistence mechanism
+Persistence of L-indexing
+persistent excitation
+Person
+person
+person agreement
+person case constraint
+Person Case Constraint
+person features
+Person Licensing Condition
+person reference
+person split
+person-and-num\-ber agreement
+person-and-number agreement
+personal pronouns
+personaler Erzähler
+personality factors
+Personalpronomen
+Personalpronomens
+perspective marking
+Perspektivierung
+persönlicher cg
+Perturbação Específica da Linguagem
+perturbação fonológica
+perturbação primária
+perturbação secundária
+Perturbações do Espectro Autista
+perturbações dos sons da fala
+período crítico
+período pré-cognitivo da linguagem
+período pré-linguístico
+período pré-verbal da cognição
+pessoa
+PF-deletion
+PF-Tilgung
+pharyngeal
+pharyngeal constriction
+pharyngealization
+pharyngealized
+pharyngeals
+phasal verb
+phasal verbs
+Phase
+phase
+phase angle
+phase circle
+Phase impenetrability condition
+phase impenetrability condition
+Phase Impenetrability Condition
+phase modulation
+phase quantification
+phase theory
+phase velocity
+phase verb
+phased decision strategies
+phasehood
+Phasenbeziehung
+Phasenverschiebung
+phases
+Phasing
+phatic
+phenomenology
+Philippines
+philosophe épicurien
+philosophes épicuriens
+philosophie stoïcienne
+philosophy
+Phoenicians
+phon(a)esthemes
+Phonaestem
+phonation
+phoneme
+phoneme genesis
+phoneme inventory
+Phoneme inventory
+phoneme merger
+phoneme split
+phonemic inventory
+phonemic representation
+phonemic status
+phonesthemes
+phonetic
+phonetic annotation
+phonetic detail
+phonetic distance
+Phonetic Form (PF)
+phonetic naturalness
+phonetic realisation
+phonetic realization
+phonetic reduction
+phonetic segmentation
+phonetic speech-gesture constraint
+phonetic transcription
+phonetic variable
+phonetic variation
+phonetics
+phonetische Form (PF)
+phonological
+phonological changes
+phonological cluster
+phonological complexity
+phonological context
+phonological contrast
+phonological development
+phonological form
+phonological interpretation
+phonological patterning
+phonological phrase
+phonological phrases
+phonological representation
+phonological restriction
+phonological rule
+phonological string
+phonological word
+phonologically conditioned allomorphy
+phonologische Assoziation
+phonologization
+phonology
+phonotactic
+phonotactics
+phrasal accent
+phrasal affix
+phrasal comparative
+Phrasal compounds of Type I
+phrasal expression
+phrasal idioms
+phrasal lexical entry
+phrasal node
+phrasal organization
+phrasal phonology
+phrasal stress
+phrasal suffix
+phrasal verb
+phrasal verb constructions
+phrasal verbs
+Phrase
+phrase
+phrase accent
+phrase alignment
+phrase averbale
+phrase boundary
+phrase marker
+phrase structure
+phrase structure grammar
+phrase structure rule
+phrase structure violation
+phrase-final lengthening
+phrase-like semantics
+phrasemes
+Phrasenstruktur
+phraseological patterns
+phraseologisms
+phylogenetic
+phylogenetic diversity
+phylogenetic frame
+phylogenetic inference
+Phylogenetic Lexical Flow Inference (PLFI)
+phylogenetic network
+phylogenetic networks
+phylogenetic tree
+phylogeny
+phylum
+phylum separation score
+phyologeny
+physical aids for translation
+physical linguistics
+physical program
+physical violence
+Phänogrammatik
+piano
+pico-ontogeny
+Pidgin
+pidgin
+pidgin language
+pidgin, definition of
+pidgin-creole cycle
+Pidgin-Sprache
+pidginization
+pidgins
+Pidgins
+pied-piping
+Pillai
+piracy trial
+pirate
+pirate ship
+pitch
+pitch accent
+Pitch accent
+pitch contour
+pitch movement
+pitch pattern
+pitch peak
+pitch range
+pitch reset
+pitch scaling
+pitch-accent system
+Pite Saami
+pivot
+pivot schema
+place assimilation
+place name
+place neutralization
+place of articulation
+placeholder
+placeless segments
+placement
+plain copula
+Plan Set
+plastic Scouse(r)
+plausibility, effect on grammaticality judgments
+play
+Pleistocene
+plit antecedent
+Plosive
+plosive
+plosives
+plot
+plot-relevant image
+pluperfect
+Pluperfect
+pluractional
+pluractional interpretation
+plural
+Plural
+plural (number) word
+plural agreement
+plural form
+plural inflection
+plural noun
+pluraliser
+plurality
+Plurality
+plurative
+plus-que-parfait
+pobreza do estímulo
+poetical dialect
+poetical license
+poetry
+Point-wise Mutual Information
+pointer
+pointing
+pointing cone
+pointwise mutual information
+polar operator
+polar question
+polar questions
+polarity
+Polarität
+polarité
+policy
+Polish
+politeness
+polydefinites
+polymorphique
+polynomielle Parsebarkeit
+Polysemie
+polysemous
+polysemy
+polysyllabic
+polysynthetic
+polysème
+polysémie
+Pontic-Caspian steppe
+ponto de articulação
+pop culture program
+population density
+population intersection
+population ratios
+portmanteau
+Portugal
+portée
+portée large
+portée étroite
+PoS classes
+POS tagging
+position
+position class
+Position des Verbs
+position of violation in sentence, effect on grammaticality judgments
+positional
+positional annotation
+positional auxiliary
+positional faithfulness
+positionale Ausdrucksmittel
+positionale Bedeutung
+positionally limited prefixes
+positive split attention
+positivism
+Poss
+possessed
+Possessed-Subject Hypothesis
+possessed-subject hypothesis
+possessif
+possession
+Possession
+possession verbs
+Possessivartikel
+possessive
+possessive compound
+possessive construction
+possessive constructions
+possessive marking
+possessive predication
+possessive prefixes
+possessive pronominal
+possessive pronoun
+possessive pronouns
+possessive suffix
+Possessivpronomen
+Possessivpronomens
+Possessivum
+possessor
+possessor prefix
+possessor raising
+possessors
+possessum
+possibilité
+possible
+possible worlds
+Post-Auxiliary Ellipsis
+post-boundary closing
+post-editing
+Post-editing
+post-editing task
+post-hoc questionnaire
+post-lexical level
+post-lexical stage
+post-nominal position
+post-predicate construction
+post-predicate element
+post-predicate position
+post-production process
+post-stressed syllable
+post-stroke hold
+post-syntactic
+post-verbal position
+Posteriority
+posteriority-marking
+postfix
+postmodifying
+postnominal
+postposed construction
+postposed constructions
+postposed element
+postposed elements
+postposed part
+postposing
+postposition
+postpositions
+postpositive particles
+posture
+posture verbs
+postverbal
+postverbal position
+potential
+potential focus domain
+potential function
+potential input
+potential mood
+potential productivity
+Poverty of the Stimulus
+poverty-of-the-stimulus
+Pr\"aposition
+Praat
+practical application
+practice
+practice trials
+pragmatic
+pragmatic approach
+pragmatic assertion
+pragmatic competition
+pragmatic interpretation
+pragmatic presupposition
+pragmatic principle
+pragmatic status
+pragmatic strengthening
+pragmatic uniqueness
+pragmatics
+Pragmatikalisierung
+pragmatisch
+pragmatisch gegebene Einheit
+Pragmatische Definita
+pragmatischer Prätext
+pre-annotation
+pre-boundary opening
+pre-editing
+pre-nominal position
+pre-stable phase
+pre-stressed syllable
+pre-stroke hold
+pre-syntactic
+precautioning clause
+precedence
+precipitation
+precision
+preconditions, conversational rule
+predefined time
+predicability tree
+predicate
+predicate cleft
+predicate coordination
+predicate focus
+predicate logic
+Predicate Modification
+predicate noun
+predicate position
+predicate structure
+predicate topicalization
+predicate"=argument structure
+predicate-argument structure
+predicate-focus context
+predicate-focus structure
+predicate-fronting
+predicates
+predication
+predicative
+predicative base
+predicative function
+predicative marker
+predicative marking
+predicative position
+predicative possession
+predicative relation
+predicator
+predictability
+Predictability Hypothesis
+prediction
+predictions
+predictors
+PredP
+preenchedores de lugar
+preenchedores prosódicos
+prefabricated constructions
+prefabricated patterns/phrases
+Preferred Argument Structure
+prefield
+prefix
+prefix alternation
+prefix combinatorics
+prefix series
+prefix stacking
+prefixation
+prefixed noun
+prehistory
+prenasalization
+prenominal modifier
+prenuclear
+prenuclear accent
+prenuclear contour
+prenuclear position
+prenuclear region
+preparation phase
+preparatory phase
+preposing
+preposition
+preposition stranding
+prepositional
+prepositional dative construction
+prepositional languages
+prepositional phrase
+Prepositional phrases
+prepositional phrases
+prepositional predicate clause
+prepositional time measure phrase
+prepositional verbs
+prepositions
+preposições
+prescriptive rules
+present
+present active participle
+present participle
+present participles
+present perfect
+present tense
+present tense stem
+presentation speed
+presentational focus
+presentative meaning
+presmp
+prestige
+prestige form
+prestige norm
+prestige variety
+prestigious
+presuppose
+presupposed event
+presupposition
+presupposition trigger
+presuppositional approach
+presuppositions about the world, effect on grammaticality judgments
+preterit
+preterite
+preterite participle
+pretonic
+preverb
+preverbal
+preverbal adverbs
+preverbal infants
+preverbal position
+preverbation
+preverbs
+previous context
+primary area
+primary clause
+primary indicators
+primary linguistic data
+primary modeling system
+primary phonemic system
+primary topic
+primeval language (language of Adam)
+priming
+Primitiva
+primitivos percetivos
+principal component analysis
+principal components analysis
+PrinciParse
+principe de compositionnalité
+Principe de conservation des arguments
+Principe de la Projection Etendue
+Principe des traits de tête généralisé
+principes du liage
+Principes et Paramètres
+principle
+Principle A
+Principle B
+Principle C
+Principle Z
+Principles \& Parameters
+Principles and Parameters
+Principles and Parameters (P\&P)
+Prinzip der zentripetalen Orientierung
+prisoner
+Prisoner's Dilemma
+private information
+privative
+pro-
+Pro-drop
+pro-drop
+Pro-form
+pro-index
+pro-speech gesture
+pro-verb
+pro-verbs
+probabilistic grammar
+Probabilistic Harmonic Grammar
+probabilistic models
+Probabilitative
+probability
+probability matching
+probability of error
+probable languages
+probe
+probe-goal
+problem
+problem area
+problem identification
+problem solving
+Problem solving
+problem solving activity
+problem solving behaviour
+problem solving bundle
+problem solving cycle
+problem solving indicator
+problem solving models
+problem solving patterns
+problem solving strategies
+problem solving strategy
+problem solving with expert performances
+problem-solving devices
+procedural
+procedural text
+procedural texts
+process
+process research
+processing
+processing and production effort
+processing cost
+processing ease
+processing effort
+processing speed
+processing time
+processos de assimilação
+processos de substituição
+processos fonológicos
+processual function
+proclitic
+proclitics
+prodiorthosis
+product-producer relationship
+production
+production effort
+production errors/slips
+production experiment
+production regime
+production strategies, effect on grammaticality judgments
+production time
+production times
+production trajectory
+Production Unit
+productive
+productive patterns
+productivity
+produit cartésien
+Produktivität
+produção
+proeminência
+profanity
+professional jargon
+professional translator
+proficiency
+proform
+proforme nulle
+proféré
+Progressive
+progressive
+progressive aspect
+progressive auxiliary
+progressive construction
+progressive interpretation
+progressive meaning
+progressive one
+progressive place assimilation
+progressive reading
+prohibitive
+Prohibitive
+prohibitives
+prohibitve
+Project DeepThought
+projection
+projection properties
+projection syntaxique
+projectivity
+Projektion
+Projektionsmenge (projected set)
+Projektionsprinzip
+Projektionsstufe
+Projektivität
+prolegomena
+proleptic pronoun
+proleptisch
+prologue
+prominence
+Prominence
+prominence-score
+Prominenz
+promiscuity
+Promissiva
+promotion to object function
+pronom
+pronom résomptif
+pronome
+Pronomen
+pronominal
+pronominal form
+pronominal head
+pronominal indexing
+pronominal linker
+pronominal suffix
+pronominalization
+pronominalization test
+pronoun
+Pronoun
+pronoun doubling
+pronoun incorporation
+pronouns
+pronunciation
+pronunciation error hierarchy
+pronunciation teaching
+propagation
+Proper article
+Proper Government
+proper name
+proper names
+proper noun
+Proper noun
+proper scale
+property anaphora
+property interpretation
+property noun
+property-scale
+proportional analogy
+proportional readings of superlatives
+Proposition
+proposition
+propositional attitudes
+Propositional Island Constraint (PIC)
+propositionale Bedeutung
+propositionaler Kausalsatz
+propositionaler Konzessivsatz
+Propositionskomplement
+Propositionsoperator
+Propositionsschicht
+propriedades discursivas
+propriedades universais
+proprietive
+propriété
+propulsion verbs
+prose
+prosodic
+prosodic analysis
+prosodic annotation
+prosodic boundary
+prosodic constituency
+prosodic contour
+prosodic detail
+prosodic domain
+prosodic domains
+prosodic focus
+prosodic hierarchy
+prosodic information
+prosodic nasality
+prosodic organization
+prosodic pattern
+Prosodic Phonology
+Prosodic phrase
+prosodic phrasing
+prosodic prominence
+prosodic structure
+prosodic unit
+prosodic word
+Prosodic word
+prosodic word approach
+prosodically deficient
+prosodie incidente
+prosodie intégrée
+prosodisch
+prosodische Grenze
+prosodische Hierarchie
+prosodische In\-te\-gra\-tion\slash Des\-in\-te\-gra\-tion
+prosodische Struktur
+prosodische Stärkung
+prosody
+prosody research
+prosody vs. syntax
+prospective aspect
+prosódia
+protasis
+Protestant
+Proto Eastern Polynesian
+proto-languages
+Proto-Polynesian
+protocol analysis
+protolanguage
+prototype
+Prototype
+prototype theory
+prototypical questions
+prototypical verbal phrase
+prototypical VMWE
+prototypische Assertion
+Prototypizität
+provas estandardizadas
+proverb
+proverbs
+proxemics
+Proximal
+proximal
+proximate
+proximate vs. ultimate
+Proximative
+Proxy
+pruning
+Prädikat
+Prädikation
+Prädikationskomplement
+Prädikationsoperator
+Prädikationsschicht
+prädikativ
+Prädikativ
+Präferenzgesetz
+Präfix
+Präfixe
+Präfixen
+Präposition
+Präpositionalphrase
+Präpositionalphrase (PP)
+Präsens
+Präsentativkonstruktion
+Präsupposition
+Präteritum
+prédicat collectif
+prédicat complexe
+prédicat d'attitude propositionnelle
+préfixation
+préposition
+présent
+présupposition
+présupposé
+próclise
+pseudo grammars
+pseudo-cleft
+pseudo-cleft constructions
+Pseudo-Cleft-Satz
+pseudo-clefts
+pseudo-cognate object
+pseudo-dialect
+pseudo-gapping
+pseudo-incorporation
+pseudo-partitives
+pseudocleft
+pseudocleft construction
+pseudoclivée
+pseudocompound
+Pseudogapping
+pseudogapping
+Pseudopassive
+pseudopassive
+psicologia soviética
+psitacismo
+psycholinguistic
+psycholinguistics
+psychological adaptation
+psychological use
+psychological verbs
+psychologisches Subjekt
+psychology
+psychomechanics
+psychophysics
+public information
+Puerto Rico
+punctual event
+punctual events
+punctual time
+punctual-nonpunctual distinction (PNPD)
+punctuation
+Punuk
+pupil size
+pure quote
+purpose clause
+purpose clauses
+purposive
+purposive clause
+purposive clauses
+putative input etyma
+pVel
+PyDelphin
+Qarashähär
+Qianlong
+Qinghai
+Qinling
+qualifier
+qualitative ablaut
+qualitative hypercorrection
+qualitative methodology
+qualitative research
+quality
+quality assessment
+quality assurance
+quality control
+quality controller
+quality guidelines
+quality management
+quality monitoring
+quality requirements
+quality superlatives
+quality translation
+quantal excitation
+quantal relative excitation
+quantificador
+quantification
+quantificational determiners
+quantificational nominals
+quantificational parameters
+quantificational property
+quantified noun phrases
+Quantifier
+quantifier
+quantifier phrases
+quantifier scope
+quantifier stranding
+quantifier-negative sentences
+quantifiers
+quantifieur existentiel
+quantifieur négatif
+quantifieur universel
+quantisation
+quantitative hypercorrection
+quantitative methodology
+quantitative methods
+quantitative research
+Quantity
+quantity superlatives
+quantity words
+quasi-ECM
+quasi-lexeme
+Quasi-Pronominalisierung
+query
+querying relational databases
+question
+Question
+question answering
+question courte
+question intonation
+question mark
+question marker
+question marking
+question multiple
+question particle
+question tag
+question type
+question under discussion
+Question Under Discussion
+Question Under Discussion (QUD)
+question words
+question-answering pair
+question-response sequences
+questionnaire
+Questionnaires
+questionnaires
+questions
+QuickSet system
+quotative
+quotative clauses
+quotative Lesart
+quotative marker
+Quran
+Qäwrighul
+R-PERIPH
+R-Principle E
+R-Principle V
+R-type oblique
+race
+radical position
+Radikon
+raising
+raising analysis
+raising construction
+raising predicate
+Random Step
+Rang
+Rangprobe
+ranking
+ranking versus absolute rating (of acceptability)
+rapid change
+rara
+Rashaida
+Raster
+rating scale
+rational clause
+rationale clause
+rationality
+Ratschlag
+raz-
+re-analysis
+re-entrance
+reaction time
+read back translation
+read speech
+readability
+reading behaviour
+reading scores
+reading sentence
+reading speed
+reading speed, as evidence of (un)grammaticality
+reading time
+real life translation situations
+real-time
+real-time changes
+real-time comparison of dialectal distributions
+real-time interval comparison
+real-time interval research
+real-time research
+Realis
+realis
+realis marker
+realis modality
+realisierende Theorie
+Realisierungsregel
+Realisierungsregeln
+realist analysis
+realization ranking
+realizational strength
+realized--unrealized distinction
+reallocation
+Reanalyse
+reanalysis
+reason clauses
+reason conjunction
+reasoning
+recall
+recall (of memory)
+recapitulationism
+recapitulative linkage
+recency
+recent past
+Rechtsbewegung
+recipient
+recipient language
+recipient-language
+Reciprocal
+reciprocal
+reciprocal clause
+reciprocal construction
+reciprocal constructions
+reciprocal pronoun
+reciprocals
+reciprocity
+reciprocity marker
+recognition value
+recognitional
+reconstructibility
+reconstruction
+reconstruction syntaxique
+reconstruction sémantique
+recontextualisation
+record
+record type
+record types
+recorded text
+records
+recoverability
+recruitment
+recursion
+recursive
+recursive system
+Recursive Transition Network (RTN)
+recursively enumerable language
+recursividade
+Redbird Advanced Learning
+redoublement clitique
+reduced phrase marker
+reduction
+reductive physicalism
+Reduktion
+Redundanz
+Redundanzbedingung
+Reduplication
+reduplication
+reduplicação
+Redwoods
+reference
+reference corpus
+reference hierarchy
+reference marker
+reference phase
+reference point
+reference processing
+reference resolution
+reference tracking
+referent
+referential
+referential anchoring
+referential cohesion
+referential density
+referential distance
+referential expression
+referential hierarchy
+referential intention
+referential interpretation
+referential nominals
+referential NPs
+referential properties
+referential status
+referentiality
+Referentiality
+Referentialität
+Referenzidentität
+Referenzierung
+Referenzkorpus
+Reflektorfigur
+RefLex
+RefLex scheme
+reflexive
+Reflexive
+reflexive construction
+reflexive coordination
+reflexive possessive
+reflexive pronoun
+reflexives
+reflexivity
+reflexo de sucção
+reflexos
+regiolect
+regional dialect
+regional input
+regionality
+register
+register feature
+register, effect on grammaticality judgments
+regression methods
+regression model
+regression modeling
+regression test
+regressive assimilation
+reguladores do discurso
+regular language
+regularity
+regularization
+regularizações
+regulator gesture
+rehearsal
+Reim
+reindeer
+reines Diskursphänomen
+reinforcement
+reiteration
+reiterative
+reiterative simulation
+reiterative trajectory
+Rekonstruktion
+Rektion
+Rektionsrichtung
+rekursiv
+relatedness
+relatedness-indicators
+relation
+relation anaphorique
+relation discursive
+relation verification task
+relational constraint
+relational grammar
+Relational Grammar
+relational meaning
+relational noun
+relational nouns
+relationality
+relations between relations
+relativas
+relative
+relative clause
+Relative clause
+relative clauses
+relative duration
+relative frequency
+relative Häufigkeit
+relative inheritance
+relative marker
+relative operator
+relative Phase
+relative phase
+relative pronoun
+relative pronouns
+relative readings of superlatives
+relative time
+relatives
+relativisation accessibility
+relativization
+relativized deictics
+Relativized Minimality
+relativizer
+Relativsatz
+relator
+relator noun
+relatos parentais
+Relevance Theory
+relevante Situation
+Relevanz
+reliability
+Reliefgebung
+remain imperfective
+remnant movement
+remote passive
+reorganization operator
+reorganization regime
+repair
+repetition
+repetition, effect on grammaticality judgments
+repetitive
+repetitive aspect II
+repetição
+repetição induzida
+replicability
+replication
+replication of experimental results
+reportative Lesart
+reported speaker
+reported speech
+representation
+representational gesture
+representational level
+representational model
+representativeness
+reprise content hypothesis
+reproducibility
+reproducible observation
+reproduction
+REQUEST
+request
+requesting
+requête
+reranking
+research
+research aids
+research behaviour
+research design
+research effort
+research location
+research question
+resemblance
+residual zone
+Reskalierung
+resonance
+resonate
+resource allocation
+response
+response bias
+Restfeld
+resting activation
+restitutive
+restricted code
+restricted stem
+restricteur
+restriction
+restriction on its attachment site
+restrictive
+restriktiver Relativsatz
+restructuring
+result
+result clause
+result clauses
+result state
+resultative
+resultative construction
+resultative constructions
+resultative SVC
+resultatively
+resumptive
+resumptive `go'
+resumptive `kan'
+resumptive imperfective marking
+resumptive pronoun
+resumptive pronouns
+resumptivo
+resyllabification
+resynthesis
+reticulation cycle
+retraceability
+retraction phase
+retração acentual
+retrieval
+retroflexion
+retrospective aspect
+reversibilidade
+revising
+revision
+revision phase
+rewrite grammar
+RFCI algorithm
+Rhema
+Rhematizität
+rhesus ape
+rhetoric
+rhetorical figures of speech
+Rhetorical interrogative
+rhetorical question
+rhetorical questions
+Rhetorical questions
+rhetorical structure, effect on grammaticality judgments
+rhetorische Frage
+rhetorische Kontrastrelation
+rhoticity
+rhyme
+rhythm
+rhythmic effect
+rhétoriciens
+rhétorique
+rice
+RICE theory
+rich input
+rich memory
+riddle
+right dislocation
+right dislocation test
+right edge
+right periphery
+Right Roof Constraint
+right word boundary
+right-branching
+right-headed
+Right-Node Raising
+Right-Node Raising (RNR)
+Right-Node-Raising
+rightmost syllable
+rightward movement
+rigidity
+Rigveda
+rising
+rising accent
+rising intonation
+rising pitch
+rising pitch accent
+rising tone
+rising-falling contour
+rising-falling pitch
+rising-falling pitch accent
+ritmo
+river density
+road network
+robot control
+Robust Minimal Recursion Semantics
+robust parsing
+robust processing
+rogative
+Role and Reference Grammar
+roll-up movement
+Romance
+Romanticism
+root
+root ablaut
+root Infinitive
+root phenomena
+root vowel
+root-and-pattern
+rooting
+roots
+rounding
+Rubin vase figures
+RuG/L04
+rule
+rule blocks
+Rule of Paradigm Linkage
+rule systems
+rule"=to"=rule hypothesis
+Rule-argument coherence
+rule-following argument
+rule-to-rule approach
+rule-to-rule hypothesis
+rule-using problems
+rules
+Rules of Procedure
+Russia
+Russian
+Rwanda
+Ryūkyūan Islands
+règle
+règle lexicale
+réponse courte
+Rückfrage
+rā (demonstrative)
+rā (intensifier)
+rō (emphatic marker)
+s (type)
+S"=structure
+s-feature
+s-m cotemporality
+S-Paraphrasierbarkeit
+s-retraction
+S-structure
+s-sys\-tem differentiation
+s-system coupling
+s-system differentiation
+S-Teilbaum
+saccade
+saccade length
+safe area
+SaGA
+SaGA Corpus
+saillance prosodique
+sailor
+Sakhalin
+salience
+Salience
+saliency
+Salient Utterance (SAL-UTT)
+Samoyedic languages
+sampling
+sampling models
+sandhi
+Sandhi
+Sankoff algorithm
+sans-serif
+Sanskrit grammarians
+Satellit
+satellite
+satellite particle
+satiation
+satisfaction
+saturation index
+Satz
+Satzadverb
+Satzadverbialen
+Satzende
+Satzexklamativsatz
+Satzfokus
+Satzglied
+Satzklammer
+Satzmodale Schnittmengenbedingung
+Satzmodus
+Satzoperator
+Satzschichten
+Satzskopus
+Satztopik
+Satztyp
+satzwertig
+Saudi Arabia
+Saussurean sign
+SBCSAE
+scalar approach
+scalar concessive conditional
+scalar expressions
+scalar implicature
+scalar item
+scalarity
+scales
+scan path
+scansion
+SCAS
+scene perception
+scene selection
+Schema
+schema
+schema theory
+schemata
+schematicity
+Schematisierung
+Schematizität
+Schleicher
+Schlussfeld
+schnelle Silbenwiederholung
+Schnittmengenbedingung
+Schnittstellenuniformität
+school
+school curriculum
+Schriftsystem
+schwa
+schwache Kontextsensitivität
+schönfinkelisation
+SCI encoding
+scientific term
+scientification
+scope
+scope economy
+scope of quantificational NPs
+Scope Principle
+Scope Transparency
+Scottish
+Scouse industry
+Scrambling
+scrambling
+screen recording data
+screen recordings
+script
+scripted conversation
+Scythian hypothesis
+se-passive
+Sea of Okhotsk
+seaman
+seamen
+seamless branching
+search patterns
+second dialect acquisition
+second language
+second language acquisition
+second mora
+second person
+second position
+second position cliticization
+Second Sophistic
+second-language
+second-language learners
+second-language learning
+second-position clitic
+secondary association
+secondary imperfective
+secondary imperfective suffix
+secondary imperfectivization
+secondary indicators
+secondary modeling system
+secondary predicate
+secondary predicates
+secondary prominence
+secondary topic
+section
+sections
+secundative
+secutive
+segment
+segmentability
+segmental
+segmental pitch
+segmental production
+Segmentale Ankerhypothese
+segmentale Ebene
+segmentation
+segmentação
+Segmented Discourse Representation Theory
+Segmented TAG (SegTAG)
+Sekundärfrage
+select for imperfective stems
+selection
+selection bias
+selection level
+selection tests
+selection threshold
+selectional production
+selectional regime
+selectional restriction violation
+selectional restrictions
+selectionally limited prefixes
+selectionally restricted
+selective reorganization
+Selektion
+seleção de imagens
+self"=embedding
+self-assessment
+self-assessment of the performance
+self-embedding
+self-information
+self-monitoring
+self-organization
+self-paced reading
+SELR
+semantic
+semantic alignment
+semantic ambiguity
+semantic analysis
+semantic bleaching
+semantic change
+semantic classes
+semantic composition
+semantic constraints
+semantic entity
+semantic evaluation
+semantic extension
+semantic focus
+semantic form
+semantic function role
+semantic inference
+semantic map
+Semantic Map Connectivity Hypothesis
+semantic nets
+semantic opacity
+semantic overlap
+semantic primes
+semantic processing
+semantic recoverability
+semantic relations
+semantic representation
+semantic restriction
+semantic restrictions
+semantic role
+semantic roles
+semantic root ambiguity
+semantic scope
+semantic space
+semantic structure
+semantic transparency
+semantic type
+semantic uniqueness
+semantica
+semantics
+Semantische Definita
+semantische Rolle
+Semantische Rolle
+semantisches Merkmal
+semelfactive
+semi-active state
+semi-automated process
+semi-automatic method
+Semi-Linearität
+semi-object
+semi-professional
+semi-reflexive
+semi-spontaneous speech
+semi-vowel
+semievaluiert
+semigrammatical sentences
+semiologia
+semiological sign
+semiology
+semiosis
+semiosphere
+semiotic cycle
+semiotic space
+semiotic triangle
+semiotics
+Semitism
+semivowel
+senary
+Senegal
+senior management
+sens
+sens lexical
+sense extension
+sensibilidade fonológica
+sensorimotor
+Sensory
+sensory feedback
+sentence
+sentence accent
+sentence alignment
+sentence boundary
+sentence bracket
+sentence chunking
+sentence focus
+sentence information structure
+sentence item
+sentence length
+sentence matching task
+sentence modality
+sentence mood
+sentence particle
+sentence symbol
+sentence type
+sentence-type disambiguation
+sentence-type identification
+sentential extraposition
+sentential forms
+sentential negation
+sentential stress
+separating set
+Separationism
+separative
+Septuagint
+sequence
+sequence labelling
+sequence model
+sequential
+sequential aspect
+sequentiality
+Serbo-Croat acquisition
+Serbo-Croatian
+serial verb
+Serial verb
+serial verb construction
+serial verb construction(s)
+serial verb constructions
+serial verbs
+serialisation
+serialization
+series of
+serif
+session's durations
+setting of experiment
+seven-step-cycle
+seventeenth century
+sex differences
+sex, effect on grammaticality judgments
+sexus
+Shakespeare
+shallow processing
+Shangoda
+shanty
+ShapeWorld
+shared assumptions
+shared attention
+shared information
+shared information gesture
+shared inheritance
+shared intentionality
+shared intentions
+shared knowledge
+shared task
+Shared Task on Extrinsic Parser Evaluation
+sharing
+shibboleth
+shibboleths
+Shitlib
+Short-a
+short-distance reflexives
+shortening
+Shortest Move
+Shortest Move Constraint (SMC)
+shot composition
+shoulder positions
+shrinking
+shuffle
+Siberia
+Siberian Federal district
+sibilant
+sibilants
+sibling
+Sichuan
+Sicily
+sideward movement
+Sigmaa
+sigmatic future
+sign
+sign formation
+sign language
+Sign Language of the Netherlands
+sign languages
+Sign-based Construction Grammar
+Sign-Based Construction Grammar
+signature
+signer
+signifiant
+significance
+significance analysis
+significante
+signification
+significations
+significato
+Signifikant
+Signifikat
+signifié
+signwritten form
+Sigu
+Silbe
+Silbenkontaktgesetz
+Silla
+Silverstein Hierarchy
+Silverstein hierarchy
+similarity
+similative
+similatives
+simple clause
+simple clitics
+Simple external support
+Simple internal support
+simple past
+simple present
+simple reciprocal
+Simpler Syntax
+simplex numeral
+simplex stem
+simplicity vs. complexity
+simplification
+Simultandolmetschen
+Simultaneity
+simultaneity
+simultaneous aspect
+simultaneous interpreting
+Simultanitätsbedingung
+single engine hypothesis
+single marking
+Single Value Constraint
+single word stage
+single-value ML reconstruction
+single-value MP reconstruction
+singleton type
+singleton-geminate ratio
+singular
+singular third person
+singular value decomposition
+singulative
+Sinhala
+Sinocentric view
+sintagma determinante
+sintagma entoacional
+sintagma nominal
+sintagma preposicional
+sintaxe
+sistema consonântico
+Sistemas de Escrita Alfabética
+Sister Adjunction
+sister languages
+situated case-policy problems
+situated communication
+Situated Prosodic Word Constraint
+situatedness
+situation
+Situation Semantics
+situation theory
+situation type
+situational uniqueness
+Situationsvalenz
+situativ
+sixteenth century
+skeleton F-score
+skeleton precision
+skeleton recall
+sketch model
+skill-rule-knowledge framework
+skin colour
+Skopus
+slab
+slave trade
+slingshot argument
+sloppy and strict identity
+sloppy identity
+sluice
+sluicing
+Sluicing
+smacking
+small clause
+small clauses
+smallpox
+SmartKom Corpus
+SMOG index
+smoothing-spline ANOVA
+Smultron
+snowmobiles
+social action
+social cohesion
+social Darwinism
+social ecology
+social facilitation effect
+social factors
+social interaction
+social learning skills
+social meaning
+social mechanisms
+social network
+social networks
+social promotion
+social stratification
+socio-economic class
+socio-educational model
+sociocultural
+sociocultural ecology
+sociolect
+sociolinguistic
+sociolinguistic interview
+sociolinguistic profile
+sociolinguistic study
+sociolinguistic variation
+sociolinguistica
+sociolinguistics
+sociology
+sociometric closure
+sociometric factors
+sociophonetics
+soft consonant
+softmax
+software
+Sogla
+solecism
+Somalia
+sonorant
+sonority
+sonority distance
+sonority plateau
+sonority scale
+Sonorität
+Sonoritätsexpansion
+Sonoritätshierarchie
+sons vegetativos
+sophistes
+Sophistic
+Sophistique
+sorites paradox
+sort
+sorte
+sound change
+sound law
+sound pattern
+sound symbolism
+sound system
+source construction
+source indication
+source language
+source text
+source-language
+sources of information integration
+sous-catégorisation
+South Asia
+South Korea
+Southeast Asia
+Southeast Asian languages
+Southern Caucasus
+Southern vowel shift
+sozial isoliert
+Space grammar
+space unit
+spacial deixis
+span
+Spanish
+Spanish influence
+sparsity
+spatial
+spatial adverb
+spatial arrangement
+spatial autocorrelation
+spatial case
+spatial cognition
+spatial deixis
+spatial distance matrix
+spatial language game
+spatial occupation
+spatial pattern
+spatial postposition
+spatial relation
+spatial scenes
+spatial weighting function
+spatialization
+Speaker
+speaker
+speaker attitude
+speaker detection
+speaker identification
+speaker perspective
+speaker position
+speaker reference
+speaker-oriented adverbs
+speaking direction
+speaking rate
+speaky-spoky
+special clitics
+special science
+specialised translation
+speciation
+species
+species marking
+specific articles
+specific reading
+Specific reference
+specific-nonspecific distinction (SNSD)
+specificity
+Specificity
+Specified Subject Condition
+Specified Subject Condition (SSC)
+specifier
+specifying nominal complement
+spectral coherence
+spectral slices
+spectral slope
+spectrogram
+speculation
+speech
+Speech Accent Archive
+speech act
+speech act production
+speech act verb
+speech acts
+speech community
+speech development
+speech direction
+speech error
+speech errors
+speech mode
+speech processing
+speech production
+speech production model
+speech prosody
+speech rate
+speech recognition
+speech style
+speech versus writing, effect on grammaticality judgments
+speech-gesture ensemble
+speech-gesture integration
+speech-gesture production models
+speed of judgment
+spell out
+spell-out
+spell-out algorithm
+spell-out domain
+spelling pronunciation
+spelling ratio
+spelling, effect on grammaticality judgments
+spells out
+Spezifikator
+Spezifische Prinzipien
+Spezifizität
+spike rate
+Spine
+Spine Sharing
+spirantization
+split antecedent
+split antecedents
+split attention
+split ergativity
+split intransitivity
+split morphology
+split type
+splits graph
+splitting verb
+spoke and wheel
+spoken language
+spontaneous
+spontaneous speech
+spontaneous versus prepared production
+SPPAS
+Sprachbund
+sprachbund
+Spracherwerb
+Spracherwerbsdaten
+Sprachevolution
+Sprachkontakt
+sprachliche Universalien
+Sprachstörung
+Sprachwandel
+spread zone
+spreading activation
+Sprechakt
+Sprechaktbedingung
+Sprechaktebene
+sprecherspezifisch
+sprecherspezifische Variation
+Sprechmotorik
+Sprechtrakt
+Sprouting
+Spur
+spécificité
+spécifieur
+spécifique
+square of duality
+square of opposition
+squish
+ss-s configurational interference
+stabiler Kontextzustand (stable state)
+stability
+stability gradient
+stabilizing mechanism
+stabilizing regime
+Stable PC algorithm
+stage-level predicate
+stage-level predicates
+stage-of relation
+Stammform
+Stammformen
+stance
+stand-off annotation
+standard
+standard (language)
+standard amount
+standard degree
+standard deviation
+Standard English
+standard form
+standard language
+standard meaning
+standard of comparison
+standard rating of sentence type
+standard system
+standard usage
+standard varieties
+standard variety
+Standardassertion
+standardisation
+Standardization
+standardization
+standardizing
+standards
+Standardsprache
+Standardvarietät
+standstills
+Stanford University
+state morphology
+state space
+state verbs
+state violence
+state-process distinction (SPD)
+stationary observer
+statistical analysis tool
+statistical idiomaticity
+statistical learning abilities
+statistical machine translation
+statistical methods
+statistical model
+Statistical MT systems
+statistical parsing
+statistical significance
+statistical vs. absolute
+statistics
+stative
+stative adjectival
+stative predicates
+stative verb
+status
+Status
+status suffix
+Steifheit
+Steifheitsberechnung
+stem
+stem allomorphy
+stem alternation
+stem consonant
+stem copy
+stem derivation
+stem modification
+stem space
+stem vowel
+steppes
+stereotype
+stereotypes
+stickleback fish
+stigmatisation
+Stimulation
+stimulus
+Stoics
+story problems
+storyline ranks
+stoïcien
+stoïciens
+strained anaphora
+stranding
+Stranding
+stratal approach
+Stratal Optimality Theory
+strategic performance
+strategies
+strategy
+stratum
+strength
+strength ratio
+strengthening
+Stress
+stress
+stress 
+stress assignment
+stress deafness
+stress language
+stress pattern
+stress position
+stress preservation
+stress shift
+stress system
+strict neg-concord
+strict negative concord
+string
+String Continuation Condition (SCC)
+string similarity
+string theory of events
+Stripping
+stroke phase
+Strong Co-occurrence Constraint (SCC)
+strong coupling constraint
+strong definite articles
+strong definites
+strong Minimalist thesis
+strong pronoun
+Stroop effect
+strophic
+structural ambiguity
+structural case
+Structural Complexity Score
+structural congruity
+structural diversity
+Structural equation modelling
+structural linguistics
+structural marker
+structural paradigm
+structural priming
+structural realism
+structural realist
+Structuralism
+structuralist
+structuralist period
+structuralists
+structure
+structure informationnelle
+structure plate
+Structure Preservation
+structure preservation
+structure sharing
+structure-dependence
+structure-dependent
+structured content
+strukturell diagrammatische Ikonizität
+strukturelle diagrammatische Ikonizität
+strutturalismo
+Study Abroad
+study of terminological variation
+STUG
+style
+style guide
+style shift
+style shifting
+style, effect on grammaticality judgments
+style-shifting
+stylistic device
+Stylistic Fronting
+stylization
+sub-lexical
+sub-modularity
+sub-phonemic
+sub-research question
+subcategorisation frame
+subcategorization
+subcategorization feature
+subcategorization frame
+Subcategorization Principle
+subcategorization violation
+subclause
+subcomparative
+subconscious problem solving
+subdialect
+subevent
+subevents
+subextraction
+subinterval property
+Subjacency
+subjacency
+Subjacency violation
+Subject
+subject
+subject agreement
+Subject Condition
+subject drop
+subject extraction
+Subject Extraction Lexical Rule
+subject island
+subject marker
+subject noun
+subject omission
+subject orientedness
+subject position
+subject pronoun
+subject-copying
+subject-drop
+subject-oriented anaphor
+subject-orientedness
+subject:intransitive
+subject:intrantive
+subject:transitive
+subjective conjugation
+subjective self-awareness (SSA)
+subjects
+Subjekt
+Subjektinversion
+subjektive Modalität
+Subjektivierung
+Subjektlücke
+subjunction
+subjunctive
+subjunctive mood
+Subkategorisierung
+subkinds
+Subklassenspezifik
+submorpheme
+subordinate
+subordinate clause
+Subordinate clauses
+subordinate clauses
+subordinate conjunction
+subordinated
+subordination
+subordinative
+subordinative Kette
+subordinative reorganization
+subordinator
+subordinação
+subsections
+subsecutive
+subset principle
+subsistence
+substandard
+Substantiv
+Substantive
+Substantiven
+Substantivierung
+Substantivs
+substituição de fonema
+substitution
+Substitution
+substitution test
+Substitutionsknoten
+substrate
+substrate language
+Substratist
+substratum influence
+subsumption
+subtitle appearance
+subtitle area
+subtitle design
+subtitle disappearance
+subtitle layout
+subtitle placement
+subtitling practice
+subtle judgments
+subtractive morphology
+subtractive numeral
+Subtraktion
+subtração fonémica
+subvocal rehearsal
+successful communication
+successive affrication
+Sudan
+sufficient contrast
+suffix
+Suffix
+suffixation
+Suffixaufnahme
+Suffixe
+Suffixen
+suffixes
+Suffixes
+suffixing
+suffixing preference
+sujeito
+sujeito nulo
+summarization
+summary conjunction
+summary linkage
+summon
+Sunggari
+superimposing maps
+Superiority violation
+Superlativ
+Superlative
+superlative
+superlative degree
+superlatives
+superlexical
+Superset Principle
+Superstrate
+superstrate
+superstrate influence
+Superstratist
+supertagging
+suppletion
+suppletive
+support vector machine
+supporting line
+supportive material
+suppressed-object
+supralaryngeal cavity
+supralexical model
+surdez
+surface exception
+surface properties
+surface representations
+surface-oriented
+Suriname
+surprisal
+surroundings
+suspended affixation
+SUSY system
+Swiss German Sign Language
+switch reference
+switch-function (pro)nouns
+switch-reference
+syllabic consonants
+syllabic structure
+syllabicity
+syllabification
+syllabify
+syllable
+Syllable
+syllable duration
+syllable nucleus
+syllable onset
+syllable position
+syllable structure
+syllable type
+syllable weight
+syllables
+symbol
+symbolic ecology
+symmetrical object
+symmetrisches Prädikat
+symmetry
+symmetry breaking
+symmetry property
+symétrie
+synaffixation
+synchronic
+synchronic frame
+synchronic variation
+synchronicity
+Synchronie
+synchronisation
+Synchronous TAG (STAG)
+synchrony
+syncretic paradigms
+syncretism
+synergetic
+Synergetics
+Synkretismen
+Synkretismus
+synonym
+synonymie
+synonymy
+synset
+syntactic
+syntactic accounts of
+syntactic alignment
+syntactic annotation
+syntactic argument
+syntactic break
+syntactic categories
+syntactic category
+syntactic causative
+syntactic complexity
+syntactic constituents
+syntactic context
+syntactic derivation
+syntactic differences
+syntactic function
+syntactic head
+syntactic hierarchy
+syntactic island
+syntactic locus
+syntactic mistakes
+syntactic movement
+syntactic object
+syntactic operation
+syntactic parsing
+syntactic pattern
+syntactic phenomenon
+syntactic position
+syntactic positioning
+syntactic positions
+syntactic processing
+syntactic quality
+syntactic reciprocal
+syntactic recursion
+syntactic relations
+syntactic representation
+syntactic restrictions
+syntactic source
+syntactic structure
+syntactic structures
+syntactic system
+syntactic theories
+syntactic theory
+syntactic translationese
+syntactic tree
+syntactic trees
+syntactic variability
+syntactic variation
+syntacticization
+syntagmatic axis
+syntagmatic probability
+syntagmatic relation
+syntagme endocentrique
+syntagme exocentrique
+syntaktische Funktion
+syntax
+Syntax
+syntax"=semantics interface
+syntax--phonology interface
+syntax-prosody interface
+syntax-semantics interface
+Syntax-Semantik-Schnittstelle
+syntaxe d'accord
+syntaxe de régime
+Syntaxe de régime
+synthetic comparatives
+synthetic compound
+synthetic speech
+synthéthique
+systems
+SYSTRAN
+Systran
+sémantique
+sílaba
+Síndrome de Down
+Síndrome de Williams
+t (type)
+table de vérité
+table tennis
+tableaux
+taboo
+taboo gesture
+tacesics
+tag question
+Tag-Frage
+Tag-Fragen
+Tahitian influence
+Taiga
+tail
+tail recursion
+tail-head linkage
+Taiwan
+Taiwan Sign Language
+Taklamakan
+Taktgeber
+talking head
+TAM marking
+Tamagotchi
+Tanzania
+Target
+target
+TARGET
+target form
+target language
+target text
+Tarim
+task
+task processor
+task-related factors
+tasks
+Tasmanians
+Tatary
+tau (demonstrative)
+tautologie
+tautossilábico
+tautosyllabic
+taxon
+taxonomy
+te (article)
+teaching approach
+technical problems
+Tektogrammatik
+teleology
+telic
+telic verb
+telic verbs
+telicity
+telicity parameter
+telicity test
+tema
+temperature
+temperature dimension
+template
+templates
+templatic
+tempo
+temporal
+temporal adverb
+temporal argument
+temporal arrangement
+temporal clause
+temporal clauses
+temporal enclitic
+temporal extent
+temporal postposition
+temporal relationship
+temporal remoteness
+Temporaladverb
+temporale Modifikation
+temporalité
+temps
+Tempus
+tendency
+Tense
+tense
+tense consonant
+tense marker
+tense marking
+tense variation
+Tense, mood, and aspect
+tense-modality-aspect (TMA) systems
+tentive
+Teoria da Aprendizagem
+Teoria da Ligação
+Teoria da Otimidade/Otimalidade
+Teoria do Desenvolvimento Social
+Term
+term
+term candidate
+term extraction
+term variant
+terme
+terme polysémie
+termhood
+terminal node
+terminative
+terminological resources
+terminological variation
+terminologist
+terminology
+terminology database
+terminology management systems
+terminology resources
+terms of address
+test
+test for perfectivity
+test suite
+test trajectory
+Teste de Articulação Verbal
+Teste Fonético Fonológico - Avaliação de Linguagem Pré-Escolar
+teste Wug
+testing effects
+tests are commonly used
+tests for determining the verbal aspect
+tests for perfectivity
+tests used to identify telic
+testsuites
+text
+text classification
+text coreference arrow
+text coreference connection
+text coreference relation
+text factors
+text fluency
+text genre
+text genres
+text placement
+text production
+text production aids
+text reading
+text sample
+text type
+Textfrequenz
+TextGrid
+textual fit
+textual perspective
+Thai versus Lao
+that-t
+the aspect of a complex verb is determined
+The Principle of Iconic Ordering
+The retrospective questionnaire
+The unexpected
+Themaebene
+thematic argument
+thematic continuity
+thematic discontinuity
+thematic grid
+Thematic Principle
+thematic role
+thematic roles
+thematic suffix
+thematic vowel
+Thematicity
+Thematizität
+theme
+Theme
+theme vowel
+Theory of Mind
+theory, role of
+Theta"=Criterion
+Theta-Criterion
+theta-role
+Thetaraster
+thetic
+thetic statements
+thetisch
+Think-aloud protocols
+think-aloud protocols
+thinking
+thinking and language
+third construction
+third factor principles
+third person
+third person enclitic
+third person form
+third person pronoun
+third person singular
+third-person
+three levels/kinds of deviance (\aspectsq)
+three-interval tense
+three-place verbs
+three-way classification
+Thule
+thumb pointing
+thumbs-up gesture
+Tianshan
+Tibetan
+Tibetan Plateau
+Tibidabo Treebank
+Tiefenstruktur
+Tieftongeste
+Tiger corpus
+Tiisa
+time
+Time
+time adverbials
+time depth
+time expression
+time frame adverbials
+time measure expression
+time ordinal
+time pressure
+time scale
+time scales
+time unit
+time-aligned transcription and integrated coding
+timescales
+Tisch
+Tisch (table)
+title area
+title design
+title designer
+title display
+TL-MCTAG with Shared Nodes (SN-MCTAG)
+tmesis
+to (possessive prep.)
+to cross
+to redo
+To-Do-Liste
+Togo
+token
+Token
+token (instance)
+token frequency
+token physicalism
+Token-Entrenchment
+tokenization
+Tolerance Principle
+Tonakzent
+tonal
+tonal alignment
+tonal association
+tonal change
+tonal crowding
+tonal marking
+tonal melody
+tonal realization
+tonal root node
+tonal shift
+tonal system
+tone
+tone bearing unit
+tone location task
+tone sandhi
+tone sequence
+tone span
+toned
+tones
+tongue body
+tongue tip
+Tonhöhenumfang
+tonogenesis
+top-centre area
+top-down approach
+topic
+Topic
+topic continuity
+Topic Drop
+topic drop
+topic marker
+topic position
+topic promotion
+Topic question
+topic question
+Topic questions
+topic status
+Topic, topicality
+topic-comment
+Topic-comment construction
+topic-comment construction
+topic-drop
+Topicalisation
+topicalisation
+topicality
+topicalization
+Topicalization
+topicalization construction
+topicless
+topics
+Topik
+Topik-Kommentar-Gliederung
+Topik-Referent
+Topikalisierung
+Topikphrase
+Topikposition
+Topikzeit
+topique
+topique contrastif
+topological field
+topological fields
+Topologie
+topologische Felder
+topologisches Schema
+topology
+toponym
+toponyms
+TopP
+total fixation count
+total fixation duration
+total gaze duration
+total gaze time
+total reading time
+total token count
+totalitative
+tou (demonstrative)
+TPR database
+TPR-DB
+trace
+Trace-Principle
+trade-off effects
+traditional grammar
+traditional houses
+Trajektorie
+Traktvariable
+Traktvariablen
+TRALE
+transatlantic
+transcriber
+transcription
+transcriptions
+transderivational constraint
+transfer
+transfer grammar
+transfer-based
+transferência
+transformation
+Transformational Grammar
+transformationelle Grammatik
+transformations
+Transformationsgrammatik
+transient structure
+transition area
+transition profile
+transition vowel
+transitional probabilities
+transitive
+transitive clause
+Transitive Expletive Construction
+Transitive expletives
+transitive predicate
+transitive verb
+transitive verbs
+transitivity
+Transitivity
+transitivity (method)
+Transitivität
+transitivizing suffixes
+translation aids
+translation aids for research
+translation and problem solving
+translation choices
+translation competence
+translation corpus
+translation difficulties and problems
+translation direction
+translation equivalent
+translation expertise
+translation from scratch
+translation memory
+translation memory systems
+translation model
+translation problems
+translation problems sometimes
+translation procedure
+translation process
+translation process model
+translation process research
+translation processes
+translation product
+translation quality
+translation quality assurance
+translation service
+translation service provider
+translation strategies
+translation unit
+translation workflow
+translationese
+translator-related factors
+translocation
+Translog
+Translog II
+Translog~II
+transmission
+transmission bias
+transmission biases
+transmission criterion
+transmission problem
+transparency
+transparent
+transparente Einstellung
+transportation
+transposition
+transpositional lexeme
+TRANSTAC
+traveling poet
+traço distintivo
+Tree Adjoining Grammar (TAG)
+tree diagrams
+Tree Sharing
+Tree Unification Grammar (TUG)
+Tree-Adjoining Grammar
+treebank
+Treebank
+treebanking
+treebanks
+trial-and-error
+Triangle Score Sum (TSS)
+triangulation
+Triangulation
+triconsonantal
+trigger
+trimeter
+Trinidad
+Trinidadian
+tritonal pitch accent
+trivalent
+trivalent verb
+trochee
+tropative
+tropics
+troubleshooting problems
+true cognacy
+true negative
+true positive
+truncation
+Trunkierung
+truth
+truth entailment
+truth implicature
+truth inference
+truth of sentence, effect on grammaticality judgments
+truth value
+truth values
+truth-conditional difference
+truth-conditional semantics
+truth-conditions
+TT-MCTAG
+tundra
+Tuosa
+Turfan
+Turing-complete
+Turkish acquisition
+Turkish Sign Language
+turn management
+turn-assigning gesture
+turn-taking
+tussentaal
+twins, use in investigating UG
+two-argument existential clause
+two-dimensional theory of idioms
+two-place verb
+type
+Type
+type (category)
+type (CFA)
+type de phrase
+type de phrases
+type hierarchy
+type raising
+type shifting
+Type Theory with Records (TTR)
+type-aware classification
+Type-Entrenchment
+Type-Logical Grammar
+type-shifting
+type-theoretical semantics
+type-token ratio
+typeface
+TypeGram
+types
+types of questions
+typicality
+typing pause
+typing processes
+typographic
+typographic design
+typographic film identity
+typographic identity
+typography
+typological feature
+typological profile
+typological property
+typological universals
+Typologie
+typologies
+typology
+typology of focus structure
+télique
+tête faible
+tête prédicative
+tū (demonstrative determiner)
+ubertagging
+ultimate stress
+ultra-social
+ultrasound
+ultrasound tongue imaging
+ultraspeech
+Umgangssprache
+umlaut
+Umlaut
+Umlaute
+Umlauten
+unaccusative
+unaccusative hypothesis
+Unaccusative Hypothesis
+unaccusative predicate
+unaccusative predicates
+unaccusativity
+unaccusativity tests
+unagreement
+unary
+unbestimmte Artikel
+unbestimmten Artikel
+unbestimmten Artikels
+unbestimmter Artikel
+unbounded dependencies
+unbounded dependency
+unbounded dependency constructions
+unbounded discourse dependency
+uncertainty
+uncertainty management
+unclear data
+unconscious patterning
+uncountable
+Undergoer
+undergoer
+undergoer voice
+underlying representation
+underspecification
+underspecification of the scale
+Underspecified Discourse Representation Theory (UDRT)
+unergative
+unergativity
+unexpectedness
+ungrammatical
+ungrammatical sentence, correction of
+ungrammaticality
+ungrounding promotion
+unicité
+unification
+unification d'ordre supérieur
+unification failure
+Unifikation
+uniform interpretation
+uniform semantics
+Uniform Theta Assignment Hypothesis (UTAH)
+uniformity
+Uniformity of Theta Assignment Hypothesis
+Unikum
+uninflected
+unintelligibility
+uninterpretability
+uninterpretable feature
+unique definites
+unique flow
+Unique Flow Ratio (UFR)
+unique form hypothesis
+uniqueness
+uniqueness scale
+unité lexicale
+universais
+universal
+universal and
+Universal Base Hypothesis
+universal concessive conditional
+Universal Dependencies
+Universal Dependencies (UD)
+Universal DP (Approach)
+universal grammar
+Universal Grammar
+Universal Grammar (UG)
+universal inference
+universal quantifier
+universal quantifiers
+universal questions
+universality
+universals
+universals, linguistic
+universe
+universelles Erkennungsproblem
+unmarkiert
+unnormalized
+unoccupied level
+unordered
+unprefixed verbs
+unrestricted grammars
+unrooted tree
+unseen
+unshielded collider
+unshielded triple
+Unspecified Voice
+unstressed
+unstressed position
+Unvollständigkeit
+update
+UPGMA
+upper inclusion
+upper-closed
+Ural
+Ural-Altaic
+UraLex
+usability
+usability research
+usability versus grammaticality
+usage
+usage data
+usage properties
+usage-based
+usage-based approach
+usage-based grammar
+usage-based models
+user experience
+users of CPE
+Ussuri
+utility
+utility function
+utterance
+utterance coherence
+Utterance Group
+utterance verb
+uvular
+V movement
+v-structure
+V1-Deklarativsatz
+V2 languages
+V2 word order
+V3 word order
+vacuous
+vacuous pronoun
+vague
+vagueness
+valence
+valence frame
+valence lexicon
+valence list
+valency
+valency adjustments
+valency alternations
+valency change
+valency class
+valency-decreasing construction
+valency-increasing construction
+Valenz
+Valenzbeziehung
+Valenzbindung
+Valenzermittlung
+Valenzkriterium
+Valenzrahmen
+Valenzrahmenrealisierung
+Valenzrealisierung
+Valenzträger
+Valenzvereinigung
+valeur
+validation of experimental results
+validity
+validité
+valore
+variabilidade individual
+variability
+variability index
+variability of
+Variabilität
+variable
+variance
+variant
+Variants
+variation
+Variation
+variation, linguistic
+variationist sociolinguistics
+variations
+variety
+variáveis genéticas
+variáveis sociais
+varu
+vector space model
+Vector-MCTAG (V-TAG)
+vehicle change
+velar
+velar nasal
+velar palatalization
+velar stop
+velum
+venitive
+ventive
+Verarbeitungseffekt
+Verarbeitungskomplexität
+Verb
+verb
+verb class
+verb classes
+Verb classification
+verb detection baseline
+verb doubling
+verb focus
+verb movement
+verb phrase
+Verb Phrase Ellipsis (VPE)
+verb position
+verb second
+verb serialization
+verb"=final language
+verb"=second language
+verb-copying
+verb-final
+verb-final language
+verb-initial constituent order
+verb-initial construction
+verb-initial language
+verb-initial syntax
+verb-internal modifiers
+verb-particle
+verb-particle construction
+verb-particle constructions
+verb-second
+verb-second language
+Verb-Stranding VPE
+verb-type hierarchy
+verbal
+verbal adjective
+verbal base
+verbal clause
+verbal cluster
+verbal collocation
+verbal complex
+verbal dimension
+verbal gesture
+verbal group
+verbal indexing
+verbal inflection
+verbal morphology
+verbal multiword expression
+verbal MWEs
+verbal negation
+verbal noun
+verbal signal
+Verbalfeld
+verbalisation
+Verbalkomplex
+verbe
+Verbform
+verbos
+Verbprojektion
+verbs
+Verdolmetschung
+verificative
+vernacular
+Verner's law
+Verschmelzung
+vertebrates
+Verteilung der Tonakzente
+vertical orientation
+vertical transmission
+vertitive
+verum focus
+Verum Fokus
+video stimuli
+viewing experience
+vigesimal-decimal
+virile
+virtual consonant
+virtual phoneme
+visit duration
+visual attention
+visual attention distribution
+visual channel
+visual information
+visual input
+visual judgments
+visual perception
+visual prosody
+visual question answering (VQA)
+visual situation
+visual weight
+visualisation
+vita reale
+vividness
+vocabulaire
+vocabulary explosion
+vocabulary growth
+vocal channel
+vocal effort
+vocalic alternation
+vocalic alternations
+vocalic element
+vocative
+Vocative
+vocatives
+voice
+Voice
+voice identity
+voice onset time
+voice quality
+voice selection
+voice system
+voiced
+voiced interdental fricative
+voiced obstruent
+voiced post-alveolar affricate
+voiceless
+voiceless fricative
+voiceless interdental fricative
+voiceless velar fricative
+VoiceP
+VoiceP-internal modulation hypothesis
+voicing amplitude
+voicing assimilation
+voicing assimilation rule
+voicing harmony
+Vokal
+Vokativ
+Volga-Kama
+Volga-Kama area
+volition
+volitional initiator
+volitionality
+vollfokussiert
+vollkommentarisch
+vollrhematisch
+Vor\-der\-grund-\slash Hin\-ter\-grund\-in\-for\-ma\-tion
+Voranstellung
+Vordergrund
+Vorfeld
+Vorfeld-es
+Vorfeldbündelung
+Vorfeldellipse
+Vorfeldstellung
+Vormodalpartikellexem
+Vorschlag
+Vorwurf
+Vowel
+vowel
+vowel assimilation
+vowel deletion
+vowel diphthongization
+vowel duration
+Vowel harmony
+vowel harmony
+vowel height
+vowel insertion
+Vowel inventory
+vowel inventory
+Vowel length
+vowel length
+vowel mutation
+vowel nasality
+vowel nasalization
+vowel pharyngealization
+vowel phonation
+vowel quality
+vowel raising
+vowel reduction
+vowel sequence
+vowel shortening
+vowel system
+vowel systems
+vowel truncation
+vowel-initial syllable
+vowels
+voyage
+vozeamento
+VP ellipsis
+VP-Ellipsis
+VRT-Dutch
+VSO order
+Vulgate
+w-Exklamativsatz
+w-Frage
+w-Fragesatz
+w-Interrogativsatz
+Wackernagel
+Wackernagel's Law
+wagon
+Wahrheitsbedingungen
+WALS
+Wasow's Generalization
+Watergate
+wave model
+wave theory
+Weak Co-occurrence Constraint (WCC)
+weak crossover
+weak definite articles
+weak definiteness
+weak definites
+weak familiarity
+weak pronoun
+weak union property
+weakening
+weaving loom
+web of inferences
+Weglassung
+weight
+weighted imbalance score
+well-defined
+well-defined problems
+well-established kind restriction 
+well-formed
+well-structured problems
+Welsh
+Weltwissen
+Wernicke's area
+WeScience
+WeSearch
+West Greenlandic
+Western Siberian Lowland
+wetness scale
+wh-agreement
+wh-extraction
+wh-fronting
+Wh-Inheritance Principle
+wh-movement
+WH-movement
+wh-pronoun
+wh-questions
+wh-words
+What is your name?
+wheat
+wheel
+Whites
+whole systems approach
+whole word route
+wide focus
+Wikipedia
+WikiWoods
+Williams syndrome
+Williamsburg
+Wirral
+witness
+witness deposition
+Wo-VL-Deklarativsatz
+Wobé
+Wohlgeformtheit
+Wohlgeformtheitsprinzip
+WOLD (World Loanword Database)
+word
+word %sequence
+word accent
+word alignment
+word boundary
+word class
+word class (overview)
+word class membership
+word classes
+word construction rule (RCM)
+word duration
+word embeddings
+word entropy
+word fixation probability
+word form frequency
+Word Formation Rule
+word formation rule
+word frequency
+word list
+word order
+word order blend
+word order violations, effect on grammaticality judgments
+word orderes
+Word Plus
+Word Principle
+word recognition task
+word retrieval
+Word Sense Disambiguation 
+word sequence
+word stress
+word translation
+word translation entropy
+word with spaces
+Word"=and"=Paradigm
+word-and-paradigm
+word-final clusters
+word-final position
+word-formation
+word-formation rule
+word-initial strengthening
+word-order correlation
+wordform
+WordNet
+wordnets
+wordplay
+wordplay proneness
+words vs. phonology
+work environment-related factors
+World Atlas of Language Structures
+world knowledge
+world model
+Wortakzent
+Wortfolge
+Wortgruppe
+Wortstellung
+wrapping
+writing
+writing performance
+writing processes
+written language bias
+Wunschsatz
+Wurzel
+Wurzel-/Stammalternationen
+Wurzelknoten
+Wurzeln
+Wurzelphänomen
+wörtliche Bedeutung
+X-bar theory
+X-bar-Schema
+X-barre
+X-SAMPA encoding
+Xiaohe
+Xinjiang
+Xiongnu
+Xixia
+XTAG
+Xtokavian
+Y-chromosomal DNA
+YADU
+Yalu
+Yamnaya
+Yangtze
+Yaoundé
+Yellow River
+Yemen
+Yenisei
+yes-no question
+yes-no questions
+yesterday past
+yukar
+Yunnan
+Yupik culture
+YY Software
+zentraler Nebensatz
+zerebellare Dysfunktion
+zero
+zero form
+zero marking
+zero operator
+zero particle
+zero subject
+zero vs. overt marking
+zero-derivation
+Zeugma-Konstruktion
+zeugme
+ZHONG
+Zielbaum
+Zielposition
+Zipf score
+Zusatz
+Zwischenlippendistanz
+Zählsprache
+école
+élément vide
+épicuriens
+épistémologie épicurienne
+équivalence
+éventualité
+éventualité plurielle
+ênclise
+ìmminent
+índice de inteligibilidade
+îles PF
+îles propositionnelles
+Öffnungsgeste
+Ökonomieprinzip
+Überlappung
+čelovek
+ŋā (plural marker)
+δ-features
+παρεπομένῳ ἀριθμῷ
+παρεπόμενα
+παρεπόμενον
+παρεπόμενον
+συμβεβηκός
+συμβεβηκότα
+συμβεβηκὸς
+συμβεβηκότα
+τὰ παρεπόμενα
+τὰ συμβεβηκότα
+τὰ συμβεβηκότα
+τὸ παρεπόμενον
+τὸ συμβεβηκός
+φ-features
